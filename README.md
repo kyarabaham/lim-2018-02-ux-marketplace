@@ -60,15 +60,25 @@ Contenidos priorizados:
 </p>
 
 **Resultado**
-<p align="center"><img src="https://i.ibb.co/RQfypkQ/Benchmark.png" alt="BenchmarkResult" width="600" height="400" />
+<p align="center"><img src="https://i.ibb.co/RQfypkQ/Benchmark.png" alt="BenchmarkResult" width="800" height="500" />
 </p>
 
 ## Problemas identificados en la investigación
 
 ### Affinity map
+**Proceso**
+<p align="center"><img src="IMAGEN" alt="AffinityProcess" width="400" height="250" />
+</p>
+
+**Resultado**
+<p align="center"><img src="https://i.ibb.co/mv4dcmW/Affinity-Map-CID-FARMA.png" alt="AffinityMap-CIDFARMA" width="800" height="400" />
+</p>
 
 ## Definición del público objetivo
 
 ### User Persona
 
 ### Customer Journey Map
+**Resultado**
+<p align="center"><img src="https://i.ibb.co/NVpP1Fg/Customer-Journey-Map.png" alt="CID- FARMACustomerJM" width="800" height="450" />
+</p>

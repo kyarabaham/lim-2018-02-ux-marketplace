@@ -60,14 +60,17 @@ Contenidos priorizados:
 </p>
 
 **Resultado**
-<p align="center"><img src="https://i.ibb.co/RQfypkQ/Benchmark.png" alt="BenchmarkResult" width="800" height="500" />
+<p align="center"><img src="https://i.ibb.co/RQfypkQ/Benchmark.png" alt="BenchmarkResult" width="750" height="500" />
 </p>
 
 ## Problemas identificados en la investigación
 
 ### Affinity map
 **Proceso**
-<p align="center"><img src="IMAGEN" alt="AffinityProcess" width="400" height="250" />
+<p align="center"><img src="https://i.ibb.co/5nJvF6J/IMG-20190203-WA0027.jpg" alt="AffinityProcess_1" width="140" height="200" />
+<img src="https://i.ibb.co/wzyVMS8/IMG-20190124-182129.jpg" alt="AffinityProcess_2" width="250" height="200" />
+<img src="https://i.ibb.co/sjLxx5X/IMG-20190124-182141.jpg" alt="AffinityProcess_3" width="250" height="200" />
+<img src="https://i.ibb.co/3yyyBH1/IMG-20190203-WA0028.jpg" alt="AffinityProcess_4" width="130" height="200" />
 </p>
 
 **Resultado**

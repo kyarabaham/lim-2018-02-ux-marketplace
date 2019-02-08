@@ -56,6 +56,17 @@ Contenidos priorizados:
 - Formulario de pedido de servicios y opciones de pago a elección de la usuaria o usuario.
 
 ### Benchmark
+En el cuadro pueden visualizar que colocamos de manera horizontal las 6 empresas y vertical los datos resaltantes en común, por ejemplo:
+- Podemos resaltar que la empresa Apredum cuenta con la modalidad de pago online (carrito de compra) y blog, son datos que realmente nos interesa.
+- En el caso de Rebagliati nos gustó la forma de como muestra la información de los cursos a través de cards con información precisa.
+- En LATFAR resaltamos su Bolsa de Trabajo ya que fue la única empresa que lo mostraba.  
+- ASTECAL también es una empresa internacional en la cual resaltamos las secciones funcionales ( ) y las suscripciones a boletines.
+- Del Instituto ROCAFORT resaltamos más el diseño de la página ya que es la más actualizada y si nav estático.
+
+- ASEFARMA es una empresa internacional que consideramos porque daba opciones de como poder informarte y/o contactar con la empresa, usaron la sección de contacto para trasmitir confianza en el momento de pedir información, también nos gustó la estructura de la información que muestran , mapa de sitio web y también tenían un blog. 
+Cada empresa aporto datos resaltantes y contribuyeron con ideas para una mejora (En el emprendimiento-para CID FARMA). 
+
+
 **Proceso**
 <p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="200" height="150" />
 <img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="200" height="150" />
@@ -92,7 +103,12 @@ User Persona N° 02:
 
 
 ### Customer Journey Map
-El Customer Journey Map Principal se ha creado en base al flujo de compra de cursos de forma individual que corresponde a una experiencia común de los usuarios N° 01 y N° 02. Mientras que el Customer Journey Map Secundario se centra en la experiencia de adquisición de capacitaciones *In House*, exclusiva del usuario N° 01.
+Dentro de la definición del público objetivo y ya teniendo definido nuestro User Persona (Principal) realizaremos el "Customer Journey Map"(mapa de experiencia del cliente, desde que se presenta hasta finalizar el servicio). Utilizamos la herramienta para concluir, que puntos de contacto no cumplen con lo que el cliente espera, para mejoramos las malas experiencia que se llevan con nuestro servicio.
+Para detallar mejor, en el grafico pueden observar que el usuario pasa por 8 momentos en todo el proceso, comenzando con el momento de cómo se presenta CID FARMA (¿Cómo logran saber de el?) hasta la entrega de la certificación. Cada momento tiene puntos de contacto, en los cuales nosotros tenemos que evaluar la experiencia de los usuarios sea positiva o negativa. ¿Cómo lo hacemos? - Cada usuario que compra el servicio pasa el mismo proceso, para poder concluir y definir si el usuario tuvo una experiencia positiva o negativa nos tenemos que preguntar ¿Qué espera el usuario? vs ¿Qué recibe el usuario? Si el usuario recibe lo que espera, entonces fue una experiencia positiva y si no coinciden fue una experiencia negativa, en la que se tiene que trabajar.
+Conclusión, tenemos actualmente tres puntos de contacto que debemos mejorar y todos están relacionados a la presentación del servicio en la web (página web).
+ Los momentos como la presentación, la búsqueda, contactar, coordinar inscripción y aplicación del curso, logran dar al usuario una experiencia positiva. Los puntos de contacto más resaltantes son "recomendación" y "Dictado del curso y seminario", realmente cumplen con que el usuario espera.
+
+El Customer Journey Map Principal se ha creado en base al flujo de compra de cursos de forma individual que corresponde a una experiencia común de los usuarios N° 01 y N° 02. Mientras que el Customer Journey Map Secundario se centra en la experiencia de adquisición de capacitacio
 
 **Resultado: CJM Principal**
 <p align="center"><img src="https://i.ibb.co/nfd5H6L/Customer-Journey-Map-Principal.png" alt="CID- FARMACustomerJM" width="800" height="450" />

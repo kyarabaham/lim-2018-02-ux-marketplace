@@ -7,13 +7,16 @@
 - Dupla: Kyara Bahamonde | Karla Rodriguez
 
 ## Introducción
-Los profesionales de la Salud requieren de la constante actualización de habilidades y conocimientos, dado que la Salud es un campo que se nutre de la investigación y se caracteriza por su constante perfeccionamiento en base a los descubrimientos y aplicación de la tecnología. Asimismo, la Salud es también un derecho universal y por tanto un servicio básico de la población. Durante mucho tiempo se pensó como tal era una inversión sin retorno por parte del sector público; no obstante, en los últimos años esta concepción ha cambiado y actualmente existen políticas dirigidas a la Gestión y mejora de la Calidad en Salud. Esta nueva perspectiva ha significado la apertura de nuevos mercados y oportunidades de negocio. El mercado de los servicios educativos y formativos en Salud ha crecido en la última década. Ante la alta oferta y demanda de cursos, seminarios, diplomados y otros, una estrategia de negocio que ha sido bien recibida por las usuarias y usuarios ha sido la incorporación de las tecnologías de información y comunicación. A través de las aulas virtuales y cursos de forma virtual o a distancia, se puede llegar cada vez más lejos y de forma más rápida. Por otro lado, el uso de las redes sociales para la promoción y adquisición de estos servicios ocupa un lugar privilegiado entre las alternativas de accesibilidad que se pueden citar. La Calidad en Salud, sin embargo, no solo implica contar con profesionales capacitados y actualizados, sino que busca mejorar cada aspecto del servicio. La gestión de los servicios de Salud se ha valido de los modelos de negocio y por esta razón las consultorías y asesorías de tipo empresarial han encontrado otro espacio de aplicación que poco a poco va mostrando su valía y resutados. 
+Los profesionales de la Salud requieren de la constante actualización de habilidades y conocimientos, dado que la Salud es un campo que se nutre de la investigación y se caracteriza por su constante perfeccionamiento en base a los descubrimientos y aplicación de la tecnología. Asimismo, la Salud es también un derecho universal y por tanto un servicio básico de la población. Durante mucho tiempo se pensó como tal era una inversión sin retorno por parte del sector público; no obstante, en los últimos años esta concepción ha cambiado y actualmente existen políticas dirigidas a la Gestión y mejora de la Calidad en Salud. Esta nueva perspectiva ha significado la apertura de nuevos mercados y oportunidades de negocio. El mercado de los servicios educativos y formativos en Salud ha crecido en la última década. Ante la alta oferta y demanda de cursos, seminarios, diplomados y otros, una estrategia de negocio que ha sido bien recibida por las usuarias y usuarios ha sido la incorporación de las tecnologías de información y comunicación. A través de las aulas virtuales y cursos de forma virtual o a distancia, se puede llegar cada vez más lejos y de forma más rápida. 
+
+Por otro lado, el uso de las redes sociales para la promoción y adquisición de estos servicios ocupa un lugar privilegiado entre las alternativas de accesibilidad que se pueden citar. La Calidad en Salud, sin embargo, no solo implica contar con profesionales capacitados y actualizados, sino que busca mejorar cada aspecto del servicio. La gestión de los servicios de Salud se ha valido de los modelos de negocio y por esta razón las consultorías y asesorías de tipo empresarial han encontrado otro espacio de aplicación que poco a poco va mostrando su valía y resutados. 
 
 ## Objetivos del proyecto
-Mejorar el sitio web principal, adaptandolo a las necesidades y problemas de las usuarias y usuarios considerando:
-- Mostrar los tres servicios que ofrece CID FARMA con experiencias de usuarixs anteriores
-- Ofrecer la opción de pedidos online de cursos para Instituciones
-- Implementar un prototipo de Aula Virtual
+Mejorar el sitio web principal, adaptándolo a las necesidades y problemas de las usuarias y usuarios, considerando:
+- Mostrar los servicios que ofrece CID FARMA con experiencias de usuarixs anteriores.
+- Visibilizar datos de relevancia como la Certificación de CID FARMA y docentes.
+- Ofrecer la opción de pedidos online de cursos para Instituciones.
+- Implementar el prototipo de una plataforma para acceder a cursos de forma virtual.
 
 ## Implementación
 
@@ -50,7 +53,7 @@ Contenidos priorizados:
 - Espacio para observar experiencias previas y recomendaciones de instituciones y otrxs usuarixs.
 - Información detallada de cursos y seminarios que incluya: Certificación, créditos, docentes, temario, horarios y precio.
 - Convenios y/o Instituciones que certifican los servicios brindados.
-- Formulario de pedido y opciones de pago a elección de la usuaria o usuario.
+- Formulario de pedido de servicios y opciones de pago a elección de la usuaria o usuario.
 
 ### Benchmark
 **Proceso**
@@ -74,14 +77,27 @@ Contenidos priorizados:
 </p>
 
 **Resultado**
+Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: *Dificultades de la modalidad presencial, Importancia y dificultades de la Certificación, Calidad del curso/Valoración del aprendizaje, Docentes, Recomendaciones o experiencias de otros, Uso del formulario de contacto, Cursos online y/o aula virtual,Compra online, Institución confiable o de prestigio, Seguridad, Modalidad para obtener información, Metodología y material didáctico, Consideraciones para adquirir un curso, Cursos y trabajo, Otros.*
+
 <p align="center"><img src="https://i.ibb.co/mv4dcmW/Affinity-Map-CID-FARMA.png" alt="AffinityMap-CIDFARMA" width="800" height="400" />
 </p>
 
 ## Definición del público objetivo
 
-### User Persona
+### User Personas
+User Persona N° 01:
+
+
+User Persona N° 02:
+
 
 ### Customer Journey Map
-**Resultado**
-<p align="center"><img src="https://i.ibb.co/NVpP1Fg/Customer-Journey-Map.png" alt="CID- FARMACustomerJM" width="800" height="450" />
+El Customer Journey Map Principal se ha creado en base al flujo de compra de cursos de forma individual que corresponde a una experiencia común de los usuarios N° 01 y N° 02. Mientras que el Customer Journey Map Secundario se centra en la experiencia de adquisición de capacitaciones *In House*, exclusiva del usuario N° 01.
+
+**Resultado: CJM Principal**
+<p align="center"><img src="https://i.ibb.co/nfd5H6L/Customer-Journey-Map-Principal.png" alt="CID- FARMACustomerJM" width="800" height="450" />
+</p>
+
+**Resultado: CJM Secundario**
+<p align="center"><img src="https://i.ibb.co/26sfWnW/Customer-Journey-Map-Secundario.png" alt="CID- FARMACustomerJM" width="800" height="310" />
 </p>

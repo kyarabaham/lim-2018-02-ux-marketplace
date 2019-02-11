@@ -126,13 +126,14 @@ Detallaremos el proceso de los Problem Statements:
 
 #### PROCESO PROBLEM STATEMENTS
 
-Usuario N° 01 - Doctor: Mario Casanova
+##### Usuario N° 01 - Doctor: Mario Casanova
 - El doctor Casanova necesita ver recomendaciones de usuarios que llevaron cursos en CID FARMA, para que tenga la seguridad de estar en una institución seria y confiable.
 - El doctor Casanova no le gusta llenar formulario de contacto porque le parece inseguro, innecesario y tedioso.  
 - El doctor Casanova requiere ver que instituciones certifican los servicios que ofrece CID FARMA, para estar seguro de la calidad y seriedad de la institución.
 - El doctor Casanova desconfía de las compras por internet por temor al phishing y que lo estafen.
 - El doctor Casanova necesita conocer la plana docente y el temario del curso, para asegurarse de la calidad del curso y contratarlo.
-Usuaria N° 02 - Farmacéutica: María Juana Roche
+
+##### Usuaria N° 02 - Farmacéutica: María Juana Roche
 - La farmacéutica Roche necesita comprar cursos virtuales, porque reside en una provincia fuera de Lima.
 - La farmacéutica Roche requiere que la información del curso se muestre de forma concisa y detallada, para ahorrar tiempo y contratar el curso.
 - La farmacéutica Roche necesita obtener su diploma de certificación de forma oportuna, para contar lo tiempo.
@@ -151,7 +152,7 @@ Definiendo
 - Mostrar información de los cursos de forma que pueda verse en una sola vista? 
 - Ofrecer la entrega de certificado a tiempo y sin recargos a lxs usuarixs de provincia?
 
-<p align="center"><img src="https://i.ibb.co/dLPvWV2/lluvia-de-ideas.png" alt="lluvia-de-ideas" border="0">
+<p align="center"><img src="https://i.ibb.co/dLPvWV2/lluvia-de-ideas.png" alt="lluvia-de-ideas" width="800" height="450"  border="0">
 </p>
 
 ## PROTOTIPO DE BAJA
@@ -159,4 +160,4 @@ Definiendo
 Continuamos con el proceso de prototipo, teniendo en cuenta las necesidades y problemas de nuestros usuarios comenzaremos a realizar el prototipo de baja.
 Comenzamos con la pagina de inicio donde resaltamos una slider con las experiencias de otros usuarios obteniendo nuestros servicios, aquí pueden observar los comentarios de las empresas que confiaron en CID FARMA, el servicio que contrataron y un botón que los dirige a cursos. Siguiendo en la pagina general o de inicio colocamos “Nosotros” (pero no se desarrolló), luego pasamos a “Nuestros servicios” optamos en poner iconos representativos para poder hacerlo más practico e interactivo. Continuamos con una slider de docentes, donde colocamos una imagen y un background del docente con la opción de leer más la información del docente que dictara el curso. No podía faltar la pantalla donde se muestra las instituciones que lo certifican ya que de esa forma damos valor y confianza en nuestros servicios.
 Para continuar con el flujo de compra realizamos pantallas, en las cuales tuvimos que desarrollar una pantalla donde nos muestra los cursos con sus respectivas sumillas y datos relevantes, al ingresar a “ver más” mostraba otra pantalla ya con la información de tallada del curso, imagen del curso y dos opciones (formulario de inscripción y volver a cursos). Si seleccionaba formulario de inscripción lo dirigía a una pantalla donde detallamos el curso que se inscribirán y pedían ingresar datos como nombre y apellido, DNI, correo eléctrico, celular y como se entero de CID FARMA. La opción de “Enviar y ver medio de pago” nos manda la pantalla donde visualizan dos opciones de pagos deposito (BCP) y Culqui. Para continua con el proceso de compra mostramos una pantalla donde te muestra tu código de inscripción, cuando caduca, el monto total, el número de cuenta de BCP y la opción de colocar tu correo electrónico para enviar el formulario de verificación de pago.
-<p align="center"><img src="https://i.ibb.co/2Z0M7XR/IMG-20190211-115006.jpg" alt="IMG-20190211-115006" border="0"></P>
+<p align="center"><img src="https://i.ibb.co/2Z0M7XR/IMG-20190211-115006.jpg" alt="IMG-20190211-115006" width="800" height="450"  border="0"></P>

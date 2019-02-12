@@ -124,7 +124,7 @@ Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de curso
 #### User Persona Secundaria - Maria Juana Roche
 CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
 
-<p align="center"><img src="https://i.ibb.co/JrXsDtx/User-Persona-2.png" alt="User-persona-2" width:"700" height:"400">
+<p align="center"><img src="https://i.ibb.co/JrXsDtx/User-Persona-2.png" alt="User-persona-2">
 </p>
 
 ### Customer Journey Map

@@ -97,11 +97,15 @@ Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevita
 ## Definición del público objetivo
 
 ### User Personas
-User Persona N° 01:
+Para definir a nuestros User Personas tuvimos en cuenta  la edad, profesion, residencia, estado civil, lo que lo motiva, frustra, le gusta, le disgusta, sus intereses, personalidad, tambien consideramos las razones  para contar un servicio de cursos institucionales, incluso su conectividad a las redes sociales. Concluimos en una pareja de esposo que cumpliran con el perfil de nuestro User Persona principal y secundario.
+
+#### User Persona Principal - Mario Casanova
+Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de cursos de actualizacion entre otros servicios de gestion para empresas y/o sus trabajadores, de esta forma pueden ofrecer un mejor y actualizado servicio. Por eso el Dr. Casanova tiene el perfil adecuado.
 
 
-User Persona N° 02:
 
+#### User Persona Secundaria - Maria Juana Roche
+CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
 
 ### Customer Journey Map
 Dentro de la definición del público objetivo y ya teniendo definido nuestro User Persona (Principal) realizaremos el "Customer Journey Map"(mapa de experiencia del cliente, desde que se presenta hasta finalizar el servicio). Utilizamos la herramienta para concluir, que puntos de contacto no cumplen con lo que el cliente espera, para mejoramos las malas experiencia que se llevan con nuestro servicio.
@@ -156,9 +160,43 @@ Definiendo
 <p align="center"><img src="https://i.ibb.co/dLPvWV2/lluvia-de-ideas.png" alt="lluvia-de-ideas" width:"700" height:"400">
 </p>
 
+### DOCUMENTOS COMPLEMENTARIOS
+#### Flujo de usuario
+Utilizamos el flujo de usuario para documentar algoritmos y funcionaliades, basado a principales las tareasa del usuario identificando los procesos a grandes rasgos y los objetos, comenzamos a analizar el flujo.
+Al ingresar a la página de inicio observara la información de manera horizontal en este orden comenzando con la sección de recomendaciones, quienes somos, cursos y seminarios, otros servicios, docente, instituciones que certifican y contáctanos. Según los problemas y/o necesidades de nuestro “User Persona” definimos pequeñas tareas. La primera tarea o flujo es la compra de un curso. Para ello te puedes ingresar directamente mediante “sección de recomendaciones” o ir a “cursos y seminarios”, ambos lo dirigen a una pantalla donde muestra los cursos y seminarios, al identificar el curso o seminario de su preferencia le dan a la opción ver más, le mostrara una pantalla con toda la información detallada  donde decides si le interesa el curso; si no  le interesa regresa a la página de inicio y si es de su interés se dirige  a “Ficha de inscripción” , al terminar de llenar le sal la opción de pagos, para terminar el proceso decides si deseas “añadir al carrito”, realizas el pago en línea  y tienes acceso al curso o por “medio de datos de transferencia y contacto” continuando con una pantalla de “verificación de pago” logras acceder al curso.  Por otro lado, si deseas contar con otro servicio, por medio de “mis servicios”, que se encuentra en la página de inicio, ingresas a la pantalla donde te detallan los servicios y escoges el de tu preferencia y continua el mismo flujo.
+El ultimo flujo  es para poder  obtener mayor información del docente que dictara el servicio, en este caso, nos dirigimos a la sección de docentes donde nos da un breve resumen del docente con la opción de “leer más”, para obtener una información detallada del docente y al terminar podemos regresar al inicio.
+
+#### Mapa de Sitio
+Antes de comenzar con nuestro prototipo de baja, desarrollamos el mapa de sitio de CID FARMA porque es esencial en el proceso de su diseño web, la importancia de realizar antes del prototipo es poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA. Por eso comenzamos agrupar y categorizar el contenido según las necesidades y/o problemas del User Persona. 
+Priorizamos en la pagina de inicio a las siguientes secciones:
+- Slider de Experiencia, donde nos dirige a los cursos y seminarios.
+- Nosotros, está conformado por ¿Quiénes somos?, visión, misión y valores de la empresa.
+- Nuestros servicios, encontraras los 4 servicios (cursos y seminarios, consultoría, asesoría y capacitaciones in House), los cuales si estas interesado en alguno continuara el proceso de compra.
+- Docente
+- Empresas que nos avalan
+- Contacto, dentro de contacto encuentras el formulario de pedido.
+De esta forma desarrollamos un orden y una jerarquía de información.
+
+
 ## PROTOTIPO DE BAJA
 
 Continuamos con el proceso de prototipo, teniendo en cuenta las necesidades y problemas de nuestros usuarios comenzaremos a realizar el prototipo de baja.
 Comenzamos con la pagina de inicio donde resaltamos una slider con las experiencias de otros usuarios obteniendo nuestros servicios, aquí pueden observar los comentarios de las empresas que confiaron en CID FARMA, el servicio que contrataron y un botón que los dirige a cursos. Siguiendo en la pagina general o de inicio colocamos “Nosotros” (pero no se desarrolló), luego pasamos a “Nuestros servicios” optamos en poner iconos representativos para poder hacerlo más practico e interactivo. Continuamos con una slider de docentes, donde colocamos una imagen y un background del docente con la opción de leer más la información del docente que dictara el curso. No podía faltar la pantalla donde se muestra las instituciones que lo certifican ya que de esa forma damos valor y confianza en nuestros servicios.
 Para continuar con el flujo de compra realizamos pantallas, en las cuales tuvimos que desarrollar una pantalla donde nos muestra los cursos con sus respectivas sumillas y datos relevantes, al ingresar a “ver más” mostraba otra pantalla ya con la información de tallada del curso, imagen del curso y dos opciones (formulario de inscripción y volver a cursos). Si seleccionaba formulario de inscripción lo dirigía a una pantalla donde detallamos el curso que se inscribirán y pedían ingresar datos como nombre y apellido, DNI, correo eléctrico, celular y como se entero de CID FARMA. La opción de “Enviar y ver medio de pago” nos manda la pantalla donde visualizan dos opciones de pagos deposito (BCP) y Culqui. Para continua con el proceso de compra mostramos una pantalla donde te muestra tu código de inscripción, cuando caduca, el monto total, el número de cuenta de BCP y la opción de colocar tu correo electrónico para enviar el formulario de verificación de pago.
 <p align="center"><img src="https://i.ibb.co/qp44B8V/IMG-20190211-115006.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+
+### Conclusiones del Test de prototipo de Baja
+
+Teniendo el prototipo de baja terminado, comenzamos a testear a 5 usuarios para poder recibir feedback y poder mejorar la experiencia con la web, cada usuario aporto con recomendaciones e ideas, a los que nos llevo con cluir con los siguientes problemas encontrados:
+- No se entiende los métodos de pago.
+- Luego de realizar el pago no saben que mas pasa.
+- Debería salir una notificación que el pago ya se hizo.
+- No entendían dónde estaba el menú.
+- Debería haber más opciones a elegir.
+- Que se ve bien la presentación.
+- Las personas que no conocen sobre CID FARMA, deben ver más sobre quienes son.
+- La compra debería ser acompañada con mensajes porque no me trasmite confianza.
+- La información del docente debe estar antes que certificaciones por jerarquía.
+- Deben incorporar números de contacto sin tener que ir a contacto.
+- Muy cargada la información de los cursos.
+   

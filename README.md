@@ -105,6 +105,7 @@ Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevita
 
 ### User Personas
 Para definir a nuestros User Personas tuvimos en cuenta  la edad, profesion, residencia, estado civil, lo que lo motiva, frustra, le gusta, le disgusta, sus intereses, personalidad, tambien consideramos las razones  para contar un servicio de cursos institucionales, incluso su conectividad a las redes sociales. Concluimos en una pareja de esposo que cumpliran con el perfil de nuestro User Persona principal y secundario.
+<<<<<<< HEAD
 
 #### User Persona Principal - Mario Casanova
 Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de cursos de actualizacion entre otros servicios de gestion para empresas y/o sus trabajadores, de esta forma pueden ofrecer un mejor y actualizado servicio. Por eso el Dr. Casanova tiene el perfil adecuado.
@@ -115,6 +116,18 @@ Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de curso
 #### User Persona Secundaria - Maria Juana Roche
 CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
 
+=======
+
+#### User Persona Principal - Mario Casanova
+Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de cursos de actualizacion entre otros servicios de gestion para empresas y/o sus trabajadores, de esta forma pueden ofrecer un mejor y actualizado servicio. Por eso el Dr. Casanova tiene el perfil adecuado.
+
+<p align="center"><img src="https://i.ibb.co/rFKp4wG/User-Persona-1.png" alt="User-Persona-1" width:"700" height:"400">
+</p>
+
+#### User Persona Secundaria - Maria Juana Roche
+CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
+
+>>>>>>> 753ab391be6cf54ec79981230e7eb5329ec19576
 <p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-Persona-2" width:"700" height:"400">
 </p>
 
@@ -231,4 +244,9 @@ Teniendo el prototipo de baja terminado, comenzamos a testear a 5 usuarios para 
 - La compra debería ser acompañada con mensajes porque no me trasmite confianza.
 - La información del docente debe estar antes que certificaciones por jerarquía.
 - Deben incorporar números de contacto sin tener que ir a contacto.
+<<<<<<< HEAD
 - Muy cargada la información de los cursos.
+=======
+- Muy cargada la información de los cursos.
+   
+>>>>>>> 753ab391be6cf54ec79981230e7eb5329ec19576

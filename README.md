@@ -71,8 +71,7 @@ En el cuadro adjunto se puede visualizar las 6 empresas (3 locales y 3 internaci
 - `ASEFARMA` brinda opciones para informarte y/o contactar con la empresa a través de una sección de contacto, y además cuenta con mapa de sitio web y un blog. 
 
 **Proceso**  
-Borradores de investigación realizada  
-(Cuadro preliminar de análisis: aquí)
+Borradores de investigación realizada: [Cuadro preliminar de análisis](https://drive.google.com/file/d/1ao0cxYP1lkaR_w_h5JBQn1zNFiBw-HKw/view?usp=sharing).
 <p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="200" height="150" />
 <img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="200" height="150" />
 <img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="200" height="150" />

@@ -122,21 +122,10 @@ Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de curso
 <p align="center"><img src="https://i.ibb.co/rFKp4wG/User-Persona-1.png" width:"700" height:"400">
 </p>
 
-
 #### User Persona Secundaria - Maria Juana Roche
 CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
 
-
-#### User Persona Principal - Mario Casanova
-Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de cursos de actualizacion entre otros servicios de gestion para empresas y/o sus trabajadores, de esta forma pueden ofrecer un mejor y actualizado servicio. Por eso el Dr. Casanova tiene el perfil adecuado.
-
-<p align="center"><img src="https://i.ibb.co/rFKp4wG/User-Persona-1.png" alt="User-Persona-1" width:"700" height:"400">
-</p>
-
-#### User Persona Secundaria - Maria Juana Roche
-CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
-
-<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-Persona-2" width:"700" height:"400">
+<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-persona-2" width:"700" height:"400">
 </p>
 
 ### Customer Journey Map

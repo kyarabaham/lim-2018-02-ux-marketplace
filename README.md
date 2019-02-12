@@ -90,16 +90,23 @@ Cuadro final de Benchmarking
 ### Affinity map
 **Proceso**
 <p align="center">
-<img src="https://i.ibb.co/5nJvF6J/IMG-20190203-WA0027.jpg" alt="AffinityProcess_1" width="140" height="200" />
-<img src="https://i.ibb.co/wzyVMS8/IMG-20190124-182129.jpg" alt="AffinityProcess_2" width="250" height="200" />
-<img src="https://i.ibb.co/sjLxx5X/IMG-20190124-182141.jpg" alt="AffinityProcess_3" width="250" height="200" />
-<img src="https://i.ibb.co/3yyyBH1/IMG-20190203-WA0028.jpg" alt="AffinityProcess_4" width="130" height="200" />
-<img src="https://i.ibb.co/6s150XX/Affinity-Map-Proceso-5.jpg" alt="Affinity-Map-Proceso-5" width="130" height="200" />
-
+<img src="https://i.ibb.co/VLBnGST/Affinity-Map-Proceso-4.jpg" alt="AffinityProcess_1" width="140" height="200" />
+<img src="https://i.ibb.co/JcB1W0w/Affinity-Map-Proceso-1.jpg" alt="AffinityProcess_2" width="250" height="200" />
+<img src="https://i.ibb.co/VHgvKgL/Affinity-Map-Proceso-3.jpg" alt="AffinityProcess_3" width="250" height="200" />
+<img src="https://i.ibb.co/6s150XX/Affinity-Map-Proceso-5.jpg" alt="AffinityProcess_4" width="130" height="200" />
 </p>
 
 **Resultado**
-Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: *Dificultades de la modalidad presencial, Importancia y dificultades de la Certificación, Calidad del curso/Valoración del aprendizaje, Docentes, Recomendaciones o experiencias de otros, Uso del formulario de contacto, Cursos online y/o aula virtual,Compra online, Institución confiable o de prestigio, Seguridad, Modalidad para obtener información, Metodología y material didáctico, Consideraciones para adquirir un curso, Cursos y trabajo, Otros.*
+Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: 
+
+||||
+|----|---|---|
+|Dificultades de la modalidad presencial|Importancia y dificultades de la Certificación|Calidad del curso/Valoración del aprendizaje|
+|Docentes|Recomendaciones o experiencias de otros|Uso del formulario de contacto|
+|Cursos online y/o aula virtual|Compra online|Institución confiable o de prestigio|
+|Seguridad|Modalidad para obtener información|Metodología y material didáctico|
+|Consideraciones para adquirir un curso|Cursos y trabajo|Otros|
+||||
 
 <p align="center"><img src="https://i.ibb.co/QbffNQ7/Affinity-Map-User-cuotes.jpg" alt="Map-User-cuotes" width="800" height="400" />
 </p>

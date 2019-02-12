@@ -48,14 +48,15 @@ _¿Cuáles son los objetivos de estos usuarios en relación con el producto?_
 Obtener información completa y específica de determinado servicio sin tener que moverse de su casa o centro de trabajo.
 Acceder a determinado servicio de forma rápida, segura y adecuada a sus necesidades, con la confianza de una Institución con experiencia y prestigio.
 
-_¿Cuáles son los contenidos que lxs usuarixs quieren ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo?_  
+_¿Cuáles son los contenidos que los usuarios quieren ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo?_  
 
 Contenidos priorizados: 
-- Información de contactos de la institución que incluyan: Dirección, representantes, números de teléfono.
-- Espacio para observar experiencias previas y recomendaciones de instituciones y otrxs usuarixs.
-- Información detallada de cursos y seminarios que incluya: Certificación, créditos, docentes, temario, horarios y precio.
+- Espacio para observar experiencias previas y recomendaciones de instituciones y otros usuarios y usuarias.
+- Información detallada de cursos y seminarios que incluya: Certificación, créditos, temario, horarios y precio, además de una sección para conocer a detalle a las y los docentes.
 - Convenios y/o Instituciones que certifican los servicios brindados.
-- Formulario de pedido de servicios y opciones de pago a elección de la usuaria o usuario.
+- Opciones de pago a elección de la usuaria o usuario para la adquisición de cursos individuales.
+- Formulario de pedido de los servicios: Consultoría, Asesoría y Capacitaciones "In House".
+- Información de contactos de la institución que incluyan: Dirección, representantes, números de teléfono.
 
 ### Benchmark
 En el cuadro adjunto se puede visualizar las 6 empresas (3 locales y 3 internacionales) que investigamos con el objetivo de obtener las mejores prácticas y adecuadarlas a nuestro producto. Cabe restaltar que, en la elección de éstas, se considero que las características del servicio brindado y el rubro de la empresa sean similiares a las de nuestro emprendimiento. Las características más resaltantes fueron: 
@@ -179,7 +180,7 @@ Definiendo
 - Colocar información sobre la plana docente y temario del curso?
 - Recrear un entorno educativo virtual con opción de compra a través de la página web?
 - Mostrar información de los cursos de forma que pueda verse en una sola vista? 
-- Ofrecer la entrega de certificado a tiempo y sin recargos a lxs usuarixs de provincia?
+- Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?
 
 <p align="center"><img src="https://i.ibb.co/dLPvWV2/lluvia-de-ideas.png" alt="lluvia-de-ideas" width:"700" height:"400">
 </p>

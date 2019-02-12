@@ -108,8 +108,7 @@ Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevita
 |Consideraciones para adquirir un curso|Cursos y trabajo|Otros|
 ||||
 
-<p align="center"><img src="https://i.ibb.co/QbffNQ7/Affinity-Map-User-cuotes.jpg" alt="Map-User-cuotes" width="850" height="700" />
-</p>
+Ver [Affinity Map completo](https://drive.google.com/file/d/1iaykloSA3b_unBOC579abwmpWBBxg0R_/view?usp=sharing)
 
 ## Definición del público objetivo
 
@@ -125,7 +124,7 @@ Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de curso
 #### User Persona Secundaria - Maria Juana Roche
 CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
 
-<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-persona-2" width:"700" height:"400">
+<p align="center"><img src="https://i.ibb.co/JrXsDtx/User-Persona-2.png" alt="User-persona-2" width:"700" height:"400">
 </p>
 
 ### Customer Journey Map

@@ -13,10 +13,12 @@ Por otro lado, el uso de las redes sociales para la promoción y adquisición de
 
 ## Objetivos del proyecto
 Mejorar el sitio web principal, adaptándolo a las necesidades y problemas de las usuarias y usuarios, considerando:
+
 - Mostrar los servicios que ofrece CID FARMA con experiencias de usuarixs anteriores.
 - Visibilizar datos de relevancia como la Certificación de CID FARMA y docentes.
 - Ofrecer la opción de pedidos online de cursos para Instituciones.
-- Implementar el prototipo de una plataforma para acceder a cursos de forma virtual.
+- Implementar el ecommerce para la compra de cursos individuales a través de la web.
+- Construir un prototipo de plataforma para acceder a cursos de forma virtual.
 
 ## Implementación
 
@@ -46,35 +48,40 @@ _¿Cuáles son los objetivos de estos usuarios en relación con el producto?_
 Obtener información completa y específica de determinado servicio sin tener que moverse de su casa o centro de trabajo.
 Acceder a determinado servicio de forma rápida, segura y adecuada a sus necesidades, con la confianza de una Institución con experiencia y prestigio.
 
-_¿Cuáles son los contenidos que lxs usuarixs quieren ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo?_  
+_¿Cuáles son los contenidos que los usuarios quieren ver, la información que buscarían para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo?_  
 
 Contenidos priorizados: 
-- Información de contactos de la institución que incluyan: Dirección, representantes, números de teléfono.
-- Espacio para observar experiencias previas y recomendaciones de instituciones y otrxs usuarixs.
-- Información detallada de cursos y seminarios que incluya: Certificación, créditos, docentes, temario, horarios y precio.
+- Espacio para observar experiencias previas y recomendaciones de instituciones y otros usuarios y usuarias.
+- Información detallada de cursos y seminarios que incluya: Certificación, créditos, temario, horarios y precio, además de una sección para conocer a detalle a las y los docentes.
 - Convenios y/o Instituciones que certifican los servicios brindados.
-- Formulario de pedido de servicios y opciones de pago a elección de la usuaria o usuario.
+- Opciones de pago a elección de la usuaria o usuario para la adquisición de cursos individuales.
+- Formulario de pedido de los servicios: Consultoría, Asesoría y Capacitaciones "In House".
+- Información de contactos de la institución que incluyan: Dirección, representantes, números de teléfono.
 
 ### Benchmark
-En el cuadro pueden visualizar que colocamos de manera horizontal las 6 empresas y vertical los datos resaltantes en común, por ejemplo:
-- Podemos resaltar que la empresa Apredum cuenta con la modalidad de pago online (carrito de compra) y blog, son datos que realmente nos interesa.
-- En el caso de Rebagliati nos gustó la forma de como muestra la información de los cursos a través de cards con información precisa.
-- En LATFAR resaltamos su Bolsa de Trabajo ya que fue la única empresa que lo mostraba.  
-- ASTECAL también es una empresa internacional en la cual resaltamos las secciones funcionales ( ) y las suscripciones a boletines.
-- Del Instituto ROCAFORT resaltamos más el diseño de la página ya que es la más actualizada y si nav estático.
+En el cuadro adjunto se puede visualizar las 6 empresas (3 locales y 3 internacionales) que investigamos con el objetivo de obtener las mejores prácticas y adecuadarlas a nuestro producto. Cabe restaltar que, en la elección de éstas, se considero que las características del servicio brindado y el rubro de la empresa sean similiares a las de nuestro emprendimiento. Las características más resaltantes fueron: 
 
-- ASEFARMA es una empresa internacional que consideramos porque daba opciones de como poder informarte y/o contactar con la empresa, usaron la sección de contacto para trasmitir confianza en el momento de pedir información, también nos gustó la estructura de la información que muestran , mapa de sitio web y también tenían un blog. 
-Cada empresa aporto datos resaltantes y contribuyeron con ideas para una mejora (En el emprendimiento-para CID FARMA). 
+- `Apredum` cuenta con la modalidad de pago online a través del uso de tarjetas de crédito y un carrito de compra; además de un blog relacionado al rubro de la empresa.
 
+- `Diplomados Rebagliati` muestra la información de los cursos a través de 'cards' con información precisa sobre los cursos que dicta.
 
-**Proceso**
+- `LATFAR` una empresa internacional, es la única empresa que muestra una Bolsa de Trabajo.  
+
+- `ASTECAL` destaca por sus secciones funcionales y la opción de suscripción a boletines.
+
+- `Instituto ROCAFORT` mantiene un diseño limpio y poco recargado, mostrando una barra de navegación estática con un número telefónico de contacto siempre visible.
+
+- `ASEFARMA` brinda opciones para informarte y/o contactar con la empresa a través de una sección de contacto, y además cuenta con mapa de sitio web y un blog. 
+
+**Proceso**  
+Borradores de investigación realizada: [Cuadro preliminar de análisis](https://drive.google.com/file/d/1ao0cxYP1lkaR_w_h5JBQn1zNFiBw-HKw/view?usp=sharing).
 <p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="200" height="150" />
 <img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="200" height="150" />
 <img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="200" height="150" />
 </p>
 
-**Resultado**
-
+**Resultado**  
+Cuadro final de Benchmarking
 <p align="center"><img src= "https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width:"750" height:"800">
 </p>
 
@@ -83,16 +90,23 @@ Cada empresa aporto datos resaltantes y contribuyeron con ideas para una mejora 
 ### Affinity map
 **Proceso**
 <p align="center">
-<img src="https://i.ibb.co/5nJvF6J/IMG-20190203-WA0027.jpg" alt="AffinityProcess_1" width="140" height="200" />
-<img src="https://i.ibb.co/wzyVMS8/IMG-20190124-182129.jpg" alt="AffinityProcess_2" width="250" height="200" />
-<img src="https://i.ibb.co/sjLxx5X/IMG-20190124-182141.jpg" alt="AffinityProcess_3" width="250" height="200" />
-<img src="https://i.ibb.co/3yyyBH1/IMG-20190203-WA0028.jpg" alt="AffinityProcess_4" width="130" height="200" />
-<img src="https://i.ibb.co/6s150XX/Affinity-Map-Proceso-5.jpg" alt="Affinity-Map-Proceso-5" width="130" height="200" />
-
+<img src="https://i.ibb.co/VLBnGST/Affinity-Map-Proceso-4.jpg" alt="AffinityProcess_1" width="140" height="200" />
+<img src="https://i.ibb.co/JcB1W0w/Affinity-Map-Proceso-1.jpg" alt="AffinityProcess_2" width="250" height="200" />
+<img src="https://i.ibb.co/VHgvKgL/Affinity-Map-Proceso-3.jpg" alt="AffinityProcess_3" width="250" height="200" />
+<img src="https://i.ibb.co/6s150XX/Affinity-Map-Proceso-5.jpg" alt="AffinityProcess_4" width="130" height="200" />
 </p>
 
 **Resultado**
-Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: *Dificultades de la modalidad presencial, Importancia y dificultades de la Certificación, Calidad del curso/Valoración del aprendizaje, Docentes, Recomendaciones o experiencias de otros, Uso del formulario de contacto, Cursos online y/o aula virtual,Compra online, Institución confiable o de prestigio, Seguridad, Modalidad para obtener información, Metodología y material didáctico, Consideraciones para adquirir un curso, Cursos y trabajo, Otros.*
+Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: 
+
+||||
+|----|---|---|
+|Dificultades de la modalidad presencial|Importancia y dificultades de la Certificación|Calidad del curso/Valoración del aprendizaje|
+|Docentes|Recomendaciones o experiencias de otros|Uso del formulario de contacto|
+|Cursos online y/o aula virtual|Compra online|Institución confiable o de prestigio|
+|Seguridad|Modalidad para obtener información|Metodología y material didáctico|
+|Consideraciones para adquirir un curso|Cursos y trabajo|Otros|
+||||
 
 <p align="center"><img src="https://i.ibb.co/QbffNQ7/Affinity-Map-User-cuotes.jpg" alt="Map-User-cuotes" width="850" height="700" />
 </p>
@@ -112,7 +126,17 @@ Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de curso
 #### User Persona Secundaria - Maria Juana Roche
 CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
 
-<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png"  width:"700" height:"400">
+
+#### User Persona Principal - Mario Casanova
+Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de cursos de actualizacion entre otros servicios de gestion para empresas y/o sus trabajadores, de esta forma pueden ofrecer un mejor y actualizado servicio. Por eso el Dr. Casanova tiene el perfil adecuado.
+
+<p align="center"><img src="https://i.ibb.co/rFKp4wG/User-Persona-1.png" alt="User-Persona-1" width:"700" height:"400">
+</p>
+
+#### User Persona Secundaria - Maria Juana Roche
+CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
+
+<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-Persona-2" width:"700" height:"400">
 </p>
 
 ### Customer Journey Map
@@ -164,7 +188,7 @@ Definiendo
 - Colocar información sobre la plana docente y temario del curso?
 - Recrear un entorno educativo virtual con opción de compra a través de la página web?
 - Mostrar información de los cursos de forma que pueda verse en una sola vista? 
-- Ofrecer la entrega de certificado a tiempo y sin recargos a lxs usuarixs de provincia?
+- Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?
 
 <p align="center"><img src="https://i.ibb.co/dLPvWV2/lluvia-de-ideas.png" alt="lluvia-de-ideas" width:"700" height:"400">
 </p>

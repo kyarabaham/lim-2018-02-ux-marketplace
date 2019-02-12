@@ -94,7 +94,7 @@ Cada empresa aporto datos resaltantes y contribuyeron con ideas para una mejora 
 **Resultado**
 Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: *Dificultades de la modalidad presencial, Importancia y dificultades de la Certificación, Calidad del curso/Valoración del aprendizaje, Docentes, Recomendaciones o experiencias de otros, Uso del formulario de contacto, Cursos online y/o aula virtual,Compra online, Institución confiable o de prestigio, Seguridad, Modalidad para obtener información, Metodología y material didáctico, Consideraciones para adquirir un curso, Cursos y trabajo, Otros.*
 
-<p align="center"><img src="https://i.ibb.co/QbffNQ7/Affinity-Map-User-cuotes.jpg" alt="Map-User-cuotes" width="800" height="400" />
+<p align="center"><img src="https://i.ibb.co/QbffNQ7/Affinity-Map-User-cuotes.jpg" alt="Map-User-cuotes" width="850" height="700" />
 </p>
 
 ## Definición del público objetivo
@@ -105,13 +105,14 @@ Para definir a nuestros User Personas tuvimos en cuenta  la edad, profesion, res
 #### User Persona Principal - Mario Casanova
 Los Clientes potenciales de CID FARMA son aquellos que compran paquetes de cursos de actualizacion entre otros servicios de gestion para empresas y/o sus trabajadores, de esta forma pueden ofrecer un mejor y actualizado servicio. Por eso el Dr. Casanova tiene el perfil adecuado.
 
-<p align="center"><img src="https://i.ibb.co/rFKp4wG/User-Persona-1.png" alt="User-Persona-1" width:"700" height:"400">
+<p align="center"><img src="https://i.ibb.co/rFKp4wG/User-Persona-1.png" width:"700" height:"400">
 </p>
+
 
 #### User Persona Secundaria - Maria Juana Roche
 CID FARMA esta interesado en poder ofrecer cursos de actualización online para personas que esten interesadas pero tienen dificultad de llevar el curso presencial, ya sea por un factor de trayectoria o tiempo. Por eso nuestra usuaria Maria Juana Roche tiene el perfil de nuestra secunda User Persona ya que le gusta estar actualizada para poder ofrecer un mejor servicio sin embargo tiene dificultad en llevar cursos presenciales porque no se encuentra en Lima, nustra usuaria tiene la necesidad de llevar cursos Online por eso consideramos a Maria Juana nuestra segunda User Persona. 
 
-<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-Persona-2" width:"700" height:"400">
+<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png"  width:"700" height:"400">
 </p>
 
 ### Customer Journey Map
@@ -174,7 +175,7 @@ Utilizamos el flujo de usuario para documentar algoritmos y funcionaliades, basa
 Al ingresar a la página de inicio observara la información de manera horizontal en este orden comenzando con la sección de recomendaciones, quienes somos, cursos y seminarios, otros servicios, docente, instituciones que certifican y contáctanos. Según los problemas y/o necesidades de nuestro “User Persona” definimos pequeñas tareas. La primera tarea o flujo es la compra de un curso. Para ello te puedes ingresar directamente mediante “sección de recomendaciones” o ir a “cursos y seminarios”, ambos lo dirigen a una pantalla donde muestra los cursos y seminarios, al identificar el curso o seminario de su preferencia le dan a la opción ver más, le mostrara una pantalla con toda la información detallada  donde decides si le interesa el curso; si no  le interesa regresa a la página de inicio y si es de su interés se dirige  a “Ficha de inscripción” , al terminar de llenar le sal la opción de pagos, para terminar el proceso decides si deseas “añadir al carrito”, realizas el pago en línea  y tienes acceso al curso o por “medio de datos de transferencia y contacto” continuando con una pantalla de “verificación de pago” logras acceder al curso.  Por otro lado, si deseas contar con otro servicio, por medio de “mis servicios”, que se encuentra en la página de inicio, ingresas a la pantalla donde te detallan los servicios y escoges el de tu preferencia y continua el mismo flujo.
 El ultimo flujo  es para poder  obtener mayor información del docente que dictara el servicio, en este caso, nos dirigimos a la sección de docentes donde nos da un breve resumen del docente con la opción de “leer más”, para obtener una información detallada del docente y al terminar podemos regresar al inicio.
 
-<p align="center"><img src="" alt="Flujo-De-Usuarix" width:"700" height:"400"></p>
+<p align="center"><img src="https://i.ibb.co/M9pZBYf/Flujo-De-Usuarix.png" alt="Flujo-De-Usuarix" width:"700" height:"400"></p>
 
 
 #### Mapa de Sitio
@@ -188,33 +189,32 @@ Priorizamos en la pagina de inicio a las siguientes secciones:
 - Contacto, dentro de contacto encuentras el formulario de pedido.
 De esta forma desarrollamos un orden y una jerarquía de información.
 
-<p align="center"><img src="https://i.ibb.co/qp44B8V/IMG-20190211-115006.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
 
 ## PROTOTIPO DE BAJA
 
 Continuamos con el proceso de prototipo, teniendo en cuenta las necesidades y problemas de nuestros usuarios comenzaremos a realizar el prototipo de baja.
 Comenzamos con la pagina de inicio donde resaltamos una slider con las experiencias de otros usuarios obteniendo nuestros servicios, aquí pueden observar los comentarios de las empresas que confiaron en CID FARMA, el servicio que contrataron y un botón que los dirige a cursos. Siguiendo en la pagina general o de inicio colocamos “Nosotros” (pero no se desarrolló), luego pasamos a “Nuestros servicios” optamos en poner iconos representativos para poder hacerlo más practico e interactivo. Continuamos con una slider de docentes, donde colocamos una imagen y un background del docente con la opción de leer más la información del docente que dictara el curso. No podía faltar la pantalla donde se muestra las instituciones que lo certifican ya que de esa forma damos valor y confianza en nuestros servicios.
 Para continuar con el flujo de compra realizamos pantallas, en las cuales tuvimos que desarrollar una pantalla donde nos muestra los cursos con sus respectivas sumillas y datos relevantes, al ingresar a “ver más” mostraba otra pantalla ya con la información de tallada del curso, imagen del curso y dos opciones (formulario de inscripción y volver a cursos). Si seleccionaba formulario de inscripción lo dirigía a una pantalla donde detallamos el curso que se inscribirán y pedían ingresar datos como nombre y apellido, DNI, correo eléctrico, celular y como se entero de CID FARMA. La opción de “Enviar y ver medio de pago” nos manda la pantalla donde visualizan dos opciones de pagos deposito (BCP) y Culqui. Para continua con el proceso de compra mostramos una pantalla donde te muestra tu código de inscripción, cuando caduca, el monto total, el número de cuenta de BCP y la opción de colocar tu correo electrónico para enviar el formulario de verificación de pago.
-<p align="center"><img src="https://i.ibb.co/qp44B8V/IMG-20190211-115006.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+<p align="center"><img src="https://i.ibb.co/qp44B8V/IMG-20190211-115006.jpg" alt="Prototipo_baja" width:"700" height:"400"></p>
 
-###### Por flujo "Ver curso"
-<p align="center"><img src="https://i.ibb.co/5K2YLYB/Flujo-Ver-Curso.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+### Por flujo "Ver curso"
+<p align="center"><img src="https://i.ibb.co/5K2YLYB/Flujo-Ver-Curso.jpg" alt="Flujo-Ver-Curso" width:"700" height:"400"></p>
 
-###### Por flujo "Ver Servicios y Certificaicon"
-<p align="center"><img src="https://i.ibb.co/Yh4HKWg/Flujo-Servicios-Certiicacion.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+### Por flujo "Ver Servicios y Certificaicon"
+<p align="center"><img src="https://i.ibb.co/Yh4HKWg/Flujo-Servicios-Certiicacion.jpg" alt="Flujo-Servicios-Certiicacion" width:"700" height:"400"></p>
 
-###### Por flujo "Pedido de capacitacion in House"
-<p align="center"><img src="https://i.ibb.co/Lzh4Db9/Flujo-Pedido-Cap-In-House.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+### Por flujo "Pedido de capacitacion in House"
+<p align="center"><img src="https://i.ibb.co/Lzh4Db9/Flujo-Pedido-Cap-In-House.jpg" alt="Flujo-Pedido-Cap-In-House" width:"700" height:"400"></p>
 
-###### Por flujo "Buscar Docente"
-<p align="center"><img src="https://i.ibb.co/CtPbWQG/Flujo-Docente.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
-
-
-###### Por flujo "Comprar curso"
-<p align="center"><img src="https://i.ibb.co/b37SxYr/Flujo-Comprar-Curso.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+#### Por flujo "Buscar Docente"
+<p align="center"><img src="https://i.ibb.co/CtPbWQG/Flujo-Docente.jpg" alt="Flujo-Docente" width:"700" height:"400"></p>
 
 
-### Conclusiones del Test de prototipo de Baja
+### Por flujo "Comprar curso"
+<p align="center"><img src="https://i.ibb.co/b37SxYr/Flujo-Comprar-Curso.jpg" alt="Flujo-Comprar-Curso" width:"700" height:"400"></p>
+
+
+## Conclusiones del Test de prototipo de Baja
 
 Teniendo el prototipo de baja terminado, comenzamos a testear a 5 usuarios para poder recibir feedback y poder mejorar la experiencia con la web, cada usuario aporto con recomendaciones e ideas, a los que nos llevo con cluir con los siguientes problemas encontrados:
 - No se entiende los métodos de pago.

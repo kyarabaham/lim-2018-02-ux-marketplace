@@ -147,7 +147,7 @@ El Customer Journey Map Principal se ha creado en base al flujo de compra de cur
 
 ## Proceso de Ideación 
 
-### Problem Srtatements 
+### Problem Statements 
 Teniendo ya definidos a nuestros User Persona y teniendo los problemas identificados en la investigación, definimos *8 problem statements* de los cuales 5 pertenecen a nuestro usuario principal y 3 a nuestra usuaria secundaria. Los principales problemas detectados tienen relación con la desconfianza y falta de información que les trasmiten las páginas web como las de CID FARMA. A continuación se detallan estos problemas señalando aquellos priorizados sobre los cuáles se trabajarán las soluciones:
 
 1. El Dr. Casanova *necesita ver recomendaciones de usuarios que llevaron cursos en CID FARMA*, para que tenga la seguridad de estar en una institución seria y confiable. `(Priorizado)`
@@ -204,42 +204,46 @@ Para poder visualizar la distribución de contenidos y establecer un orden para 
 
 Ver [Mapa de sitio]() completo.
 
-## PROTOTIPO DE BAJA
+**Prototipo de baja**  
+Breve descripción de secciones principales:
 
-Continuamos con el proceso de prototipo, teniendo en cuenta las necesidades y problemas de nuestros usuarios comenzaremos a realizar el prototipo de baja.
-Comenzamos con la pagina de inicio donde resaltamos una slider con las experiencias de otros usuarios obteniendo nuestros servicios, aquí pueden observar los comentarios de las empresas que confiaron en CID FARMA, el servicio que contrataron y un botón que los dirige a cursos. Siguiendo en la pagina general o de inicio colocamos “Nosotros” (pero no se desarrolló), luego pasamos a “Nuestros servicios” optamos en poner iconos representativos para poder hacerlo más practico e interactivo. Continuamos con una slider de docentes, donde colocamos una imagen y un background del docente con la opción de leer más la información del docente que dictara el curso. No podía faltar la pantalla donde se muestra las instituciones que lo certifican ya que de esa forma damos valor y confianza en nuestros servicios.
-Para continuar con el flujo de compra realizamos pantallas, en las cuales tuvimos que desarrollar una pantalla donde nos muestra los cursos con sus respectivas sumillas y datos relevantes, al ingresar a “ver más” mostraba otra pantalla ya con la información de tallada del curso, imagen del curso y dos opciones (formulario de inscripción y volver a cursos). Si seleccionaba formulario de inscripción lo dirigía a una pantalla donde detallamos el curso que se inscribirán y pedían ingresar datos como nombre y apellido, DNI, correo eléctrico, celular y como se entero de CID FARMA. La opción de “Enviar y ver medio de pago” nos manda la pantalla donde visualizan dos opciones de pagos deposito (BCP) y Culqui. Para continua con el proceso de compra mostramos una pantalla donde te muestra tu código de inscripción, cuando caduca, el monto total, el número de cuenta de BCP y la opción de colocar tu correo electrónico para enviar el formulario de verificación de pago.
-<p align="center"><img src="https://i.ibb.co/qp44B8V/IMG-20190211-115006.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+- Página de `Inicio` con slider mostrando las experiencias de otros usuarios y usuarias con determinado servicio y un botón que los dirige a la sección de 'Cursos y seminarios'.
+- Sección `Nuestros servicios` con iconos representativos de cada servicio. 
+- Sección `Docentes`con información breve del o la docente con la opción de leer más información sobre su Hoja de Vida
+- Sección de `Instituciones que nos certifican` ya que de esa forma se da valor a los servicios ofrecidos.
+- Sección `Contáctanos` con información relevante de contacto de CID FARMA. 
 
-###### Por flujo "Ver curso"
-<p align="center"><img src="https://i.ibb.co/5K2YLYB/Flujo-Ver-Curso.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o los usuarios:
 
-###### Por flujo "Ver Servicios y Certificaicon"
-<p align="center"><img src="https://i.ibb.co/Yh4HKWg/Flujo-Servicios-Certiicacion.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+|Flujo: Buscar/Ver información sobre cursos|Flujo: Pedido de servicio de Capacitación In House|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/5K2YLYB/Flujo-Ver-Curso.jpg" alt="Prototipo-FlujoVerCurso" width="505" height="200"></p>|<p align="center"><img src="https://i.ibb.co/Lzh4Db9/Flujo-Pedido-Cap-In-House.jpg" alt="Prototipo-FlujoCapInHouse" width="510" height="200"></p>|
 
-###### Por flujo "Pedido de capacitacion in House"
-<p align="center"><img src="https://i.ibb.co/Lzh4Db9/Flujo-Pedido-Cap-In-House.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+|Flujo: Ver Servicios y Quiénes lo Certifican|Flujo: Búsqueda de docentes|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/Yh4HKWg/Flujo-Servicios-Certiicacion.jpg" alt="Prototipo-FlujoServiciosyCertifican" width="400" height="200"></p>|<p align="center"><img src="https://i.ibb.co/CtPbWQG/Flujo-Docente.jpg" alt="Prototipo-FlujoDocentes" width="400" height="200"></p>|
 
-###### Por flujo "Buscar Docente"
-<p align="center"><img src="https://i.ibb.co/CtPbWQG/Flujo-Docente.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+|Flujo: Compra de curso|
+|:--:|
+|<p align="center"><img src="https://i.ibb.co/b37SxYr/Flujo-Comprar-Curso.jpg" alt="Prototipo-ComprarCurso" width="320" height="200"></p>|
 
+_**Conclusiones del Testeo de prototipo de baja**_
 
-###### Por flujo "Comprar curso"
-<p align="center"><img src="https://i.ibb.co/b37SxYr/Flujo-Comprar-Curso.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
+Se realizó el testo a 5 usuarios con la finalidad de poder mejorar la experiencia de uso del prototipo, previo a su diagramación en alta. Cada usuario aportó recomendaciones e ideas, de las cuáles se destacan:
 
-
-### Conclusiones del Test de prototipo de Baja
-
-Teniendo el prototipo de baja terminado, comenzamos a testear a 5 usuarios para poder recibir feedback y poder mejorar la experiencia con la web, cada usuario aporto con recomendaciones e ideas, a los que nos llevo con cluir con los siguientes problemas encontrados:
-- No se entiende los métodos de pago.
-- Luego de realizar el pago no saben que mas pasa.
-- Debería salir una notificación que el pago ya se hizo.
-- No entendían dónde estaba el menú.
-- Debería haber más opciones a elegir.
-- Que se ve bien la presentación.
-- Las personas que no conocen sobre CID FARMA, deben ver más sobre quienes son.
-- La compra debería ser acompañada con mensajes porque no me trasmite confianza.
-- La información del docente debe estar antes que certificaciones por jerarquía.
-- Deben incorporar números de contacto sin tener que ir a contacto.
-- Muy cargada la información de los cursos.
+- No se entienden los métodos de pago.
+- Luego de realizar el pago no saben qué más pasa.
+- "Debería salir una notificación que el pago ya se hizo."
+- No identificaban el menú.
+- La presentación de la primera pantalla les gustó por no ser recargada.
+- "Las personas que no conocen sobre CID FARMA, deben ver más sobre quienes son".
+- "La compra debería ser acompañada con mensajes porque no me trasmite confianza".
+- "La información del docente debe estar antes que certificaciones por jerarquía".
+- "Deben incorporar números de contacto sin tener que ir a contacto".
+- La sección de información detalla de cursos se encuentra muy recargada.
    
+**Prototipo de alta** 
+En construcción...
+
+_**Conclusiones del Testeo de prototipo de alta**_
+Interactuar con prototipo de alta [aquí]().

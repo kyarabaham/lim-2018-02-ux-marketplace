@@ -75,14 +75,14 @@ En el cuadro adjunto se puede visualizar las 6 empresas (3 locales y 3 internaci
 
 **Proceso**  
 Borradores de investigación realizada: [Cuadro preliminar de análisis](https://drive.google.com/file/d/1ao0cxYP1lkaR_w_h5JBQn1zNFiBw-HKw/view?usp=sharing).
-<p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="200" height="150" />
-<img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="200" height="150" />
-<img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="200" height="150" />
+<p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="300" height="200" />
+<img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="300" height="200" />
+<img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="300" height="200" />
 </p>
 
 **Resultado**  
 Cuadro final de Benchmarking
-<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="650" height="550">
+<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="750" height="650">
 </p>
 
 ## Problemas identificados en la investigación
@@ -132,18 +132,18 @@ CID FARMA tiene interés en ofrecer cursos de actualización de forma virtual pa
 </p>
 
 ### Customer Journey Map
-En el gráfico 01, se puede observar que el usuario o usuaria pasa por 8 momentos en todo el proceso, comenzando con el momento de cómo se enteran de CID FARMA hasta la entrega de la certificación al finalizar el curso. Cada momento tiene puntos de contacto, en los cuales se evalúa si la experiencia de los usuarios o usuaruas es positiva o negativa. ¿Cómo lo hacemos? - Cada usuario que compra el servicio pasa el mismo proceso, para poder concluir y definir si el usuario tuvo una experiencia positiva o negativa nos tenemos que preguntar ¿Qué espera el usuario? vs ¿Qué recibe el usuario? Si el usuario recibe lo que espera, entonces fue una experiencia positiva y si no coinciden fue una experiencia negativa, en la que se tiene que trabajar.
+En el gráfico 01, se puede observar que el usuario o usuaria pasa por 8 momentos en todo el proceso, comenzando con el momento de cómo se enteran de CID FARMA hasta la entrega de la certificación al finalizar el curso. Cada momento tiene puntos de contacto, en los cuales se evalúa si la experiencia de los usuarios o usuarias es positiva o negativa.    
 
-Conclusión, tenemos actualmente tres puntos de contacto que debemos mejorar, la mayoría relacionados a la presentación de los servicios vía página web. Los momentos como las recomendaciones, la búsqueda en Google, el contactar y coordinar inscripción y la aplicación del curso logran dar al usuario una experiencia positiva. En este sentido, los puntos de contacto más resaltantes son "las recomendaciones" y "el dictado del curso y seminario", pues realmente cumplen con que el usuario o usuaria espera.
+En conclusión, tenemos actualmente tres puntos de contacto que debemos mejorar, la mayoría relacionados a la presentación de los servicios vía página web. Los momentos como las recomendaciones, la búsqueda en Google, el contactar y coordinar inscripción y la aplicación del curso logran dar al usuario una experiencia positiva. En este sentido, los puntos de contacto más resaltantes son "las recomendaciones" y "el dictado del curso y seminario", pues realmente cumplen con que el usuario o usuaria espera.
 
 El Customer Journey Map Principal se ha creado en base al flujo de compra de cursos de forma individual que corresponde a una experiencia común de los usuarios N° 01 y N° 02. Mientras que el Customer Journey Map Secundario se centra en la experiencia de adquisición de capacitaciones "In House".
 
 **Resultado: CJM Principal**
-<p align="center"><img src="https://i.ibb.co/nfd5H6L/Customer-Journey-Map-Principal.png" alt="CID- FARMACustomerJM" width="800" height="450" />
+<p align="center"><img src="https://i.ibb.co/nfd5H6L/Customer-Journey-Map-Principal.png" alt="CID- FARMACustomerJM" width="800" height="420" />
 </p>
 
 **Resultado: CJM Secundario**
-<p align="center"><img src="https://i.ibb.co/26sfWnW/Customer-Journey-Map-Secundario.png" alt="CID- FARMACustomerJM" width="800" height="310" />
+<p align="center"><img src="https://i.ibb.co/26sfWnW/Customer-Journey-Map-Secundario.png" alt="CID- FARMACustomerJM" width="800" height="300" />
 </p>
 
 ## Proceso de Ideación 

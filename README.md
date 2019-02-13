@@ -75,14 +75,14 @@ En el cuadro adjunto se puede visualizar las 6 empresas (3 locales y 3 internaci
 
 **Proceso**  
 Borradores de investigación realizada: [Cuadro preliminar de análisis](https://drive.google.com/file/d/1ao0cxYP1lkaR_w_h5JBQn1zNFiBw-HKw/view?usp=sharing).
-<p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="300" height="200" />
-<img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="300" height="200" />
-<img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="300" height="200" />
+<p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="280" height="200" />
+<img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="280" height="200" />
+<img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="280" height="200" />
 </p>
 
 **Resultado**  
 Cuadro final de Benchmarking
-<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="850" height="700">
+<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="810" height="660">
 </p>
 
 ## Problemas identificados en la investigación

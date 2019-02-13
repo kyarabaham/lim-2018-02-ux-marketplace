@@ -100,13 +100,12 @@ Cuadro final de Benchmarking
 
 Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: 
 
-| | | |
-|-|-|-|
 |Dificultades de la modalidad presencial|Importancia y dificultades de la Certificación|Calidad del curso/Valoración del aprendizaje|
-|Docentes|Recomendaciones o experiencias de otros|Uso del formulario de contacto|
-|Cursos online y/o aula virtual|Compra online|Institución confiable o de prestigio|
-|Seguridad|Modalidad para obtener información|Metodología y material didáctico|
-|Consideraciones para adquirir un curso|Cursos y trabajo|Otros|
+|-|-|-|
+|**Docentes**|__Recomendaciones o experiencias de otros__|**Uso del formulario de contacto**|
+|**Cursos online y/o aula virtual**|__Compra online__|**Institución confiable o de prestigio**|
+|**Seguridad**|__Modalidad para obtener información__|**Metodología y material didáctico**|
+|**Consideraciones para adquirir un curso**|__Cursos y trabajo__|**Otros**|
 
 Ver [Affinity Map completo](https://drive.google.com/file/d/1iaykloSA3b_unBOC579abwmpWBBxg0R_/view?usp=sharing)
 
@@ -151,27 +150,27 @@ El Customer Journey Map Principal se ha creado en base al flujo de compra de cur
 ### Problem Srtatements 
 Teniendo ya definidos a nuestros User Persona y teniendo los problemas identificados en la investigación, definimos *8 problem statements* de los cuales 5 pertenecen a nuestro usuario principal y 3 a nuestra usuaria secundaria. Los principales problemas detectados tienen relación con la desconfianza y falta de información que les trasmiten las páginas web como las de CID FARMA. A continuación se detallan estos problemas señalando aquellos priorizados sobre los cuáles se trabajarán las soluciones:
 
-1. El Dr. Casanova `necesita ver recomendaciones de usuarios que llevaron cursos en CID FARMA`, para que tenga la seguridad de estar en una institución seria y confiable. _(Priorizado)_
-2. El Dr. Casanova `no gusta del llenado de formularios de contacto` porque le parece inseguro, innecesario y tedioso. _(Priorizado)_
-3. El Dr. Casanova `requiere ver que instituciones certifican los servicios que ofrece CID FARMA`, para estar seguro de la calidad y seriedad de la institución.
-4. El Dr. Casanova `desconfía de las compras por internet` por temor al phishing y que lo estafen. _(Priorizado)_
-5. El Dr. Casanova `necesita conocer la plana docente y el temario del curso`, para asegurarse de la calidad del curso y contratarlo. _(Priorizado)_
-6. La Químico Farmacéutica Roche `necesita comprar cursos virtuales`, porque reside en una provincia fuera de Lima.
-7. La Químico Farmacéutica Roche `requiere que la información del curso se muestre de forma concisa y detallada`, para ahorrar tiempo al contratar el curso. _(Priorizado)_
-8. La Químico Farmacéutica Roche `necesita obtener su diploma de certificación de forma oportuna`, para demostrar su constante actualización profesional ante su Institución.
+1. El Dr. Casanova *necesita ver recomendaciones de usuarios que llevaron cursos en CID FARMA*, para que tenga la seguridad de estar en una institución seria y confiable. `(Priorizado)`
+2. El Dr. Casanova *no gusta del llenado de formularios de contacto* porque le parece inseguro, innecesario y tedioso. `(Priorizado)`
+3. El Dr. Casanova *requiere ver que instituciones certifican los servicios que ofrece CID FARMA*, para estar seguro de la calidad y seriedad de la institución.
+4. El Dr. Casanova *desconfía de las compras por internet* por temor al phishing y que lo estafen. `(Priorizado)`
+5. El Dr. Casanova *necesita conocer la plana docente y el temario del curso*, para asegurarse de la calidad del curso y contratarlo. `(Priorizado)`
+6. La Químico Farmacéutica Roche *necesita comprar cursos virtuales*, porque reside en una provincia fuera de Lima.
+7. La Químico Farmacéutica Roche *requiere que la información del curso se muestre de forma concisa y detallada*, para ahorrar tiempo al contratar el curso. `(Priorizado)`
+8. La Químico Farmacéutica Roche *necesita obtener su diploma de certificación de forma oportuna*, para demostrar su constante actualización profesional ante su Institución.
 
 ### How Might We – HMW
 Del proceso de identificación de problemas de nuestros usuarios, se procedió a definir los _How might we_ correspondientes, teniendo en cuenta que los 5 primeros tienen que ver con los problemas priorizados. Aquí los resultados:
 
 How might we...
-1. Mostrar las recomendaciones de usuarios de CID FARMA en la página principal?
-2. Hacer más seguro el entorno de compra de servicios en la página web de CID FARMA?
-3. Colocar información sobre la plana docente y temario del curso de forma concisa?
-4. Mostrar información de los cursos de forma que pueda verse en una sola vista? 
-5. Hacer más seguro, atractivo y  práctico de rellenar el formulario de contacto?
-6. _Visibilizar a las instituciones que certifican los servicios de CID FARMA?_
-7. _Recrear un entorno educativo virtual con opción de compra a través de la página web?_
-8. _Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?_
+1. _Mostrar las recomendaciones de usuarios de CID FARMA en la página principal?_
+2. _Hacer más seguro el entorno de compra de servicios en la página web de CID FARMA?_
+3. _Colocar información sobre la plana docente y temario del curso de forma concisa?_
+4. _Mostrar información de los cursos de forma que pueda verse en una sola vista?_
+5. _Hacer más seguro, atractivo y  práctico de rellenar el formulario de contacto?_
+6. Visibilizar a las instituciones que certifican los servicios de CID FARMA?
+7. Recrear un entorno educativo virtual con opción de compra a través de la página web?
+8. Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?
 
 ### DOCUMENTOS COMPLEMENTARIOS
 #### Flujo de usuario

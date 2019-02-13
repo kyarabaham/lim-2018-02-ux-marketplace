@@ -175,7 +175,6 @@ How might we...
 ### Prototipado
 
 **Flujo de usuario**  
-
 Para este caso hemos considerado 5 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se describe el flujo más destacado:
 
 >**Flujo: Compra de un curso**  
@@ -186,19 +185,24 @@ Para este caso hemos considerado 5 flujos que corresponden a los puntos crítico
 - Una vez en esta vista, elegirá dentro de las 3 opciones de pago y luego se le brindará información sobre el éxito de su transacción y los pasos a seguir luego de concretado el pago.
 - Al finalizar tendrá la opción de verificar si se encuentra inscrito o inscrita y también la opción de retornar al 'Inicio' para seguir navegando por la plataforma en búsqueda de información.
 
-[Flujo de Usuario](https://drive.google.com/open?id=1hE7puP6oDUx9Mq59ajiLXWCDEt551tda)
+Ver [Flujo de Usuario](https://drive.google.com/open?id=1hE7puP6oDUx9Mq59ajiLXWCDEt551tda) completo.
 
 **Mapa de Sitio**  
+Para poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA, se decidió por categorizar el contenido según las necesidades y/o problemas de los User Persona. Logrando establecer el siguiente listado de secciones:
+- Experiencias/Recomendaciones
+- Sobre CID FARMA
+- Nuestros servicios: 
+    - Cursos y seminarios:
+        -  Detalle de cursos
+    - Consultoría
+    - Asesoría
+    - Capacitaciones in House
+- Docentes
+- Instituciones que certifican
+- Contáctanos
+- Blog
 
-Antes de comenzar con nuestro prototipo de baja, desarrollamos el mapa de sitio de CID FARMA porque es esencial en el proceso de su diseño web, la importancia de realizar antes del prototipo es poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA. Por eso comenzamos agrupar y categorizar el contenido según las necesidades y/o problemas del User Persona. 
-Priorizamos en la pagina de inicio a las siguientes secciones:
-- Slider de Experiencia, donde nos dirige a los cursos y seminarios.
-- Nosotros, está conformado por ¿Quiénes somos?, visión, misión y valores de la empresa.
-- Nuestros servicios, encontraras los 4 servicios (cursos y seminarios, consultoría, asesoría y capacitaciones in House), los cuales si estas interesado en alguno continuara el proceso de compra.
-- Docente
-- Empresas que nos avalan
-- Contacto, dentro de contacto encuentras el formulario de pedido.
-De esta forma desarrollamos un orden y una jerarquía de información.
+Ver [Mapa de sitio]() completo.
 
 ## PROTOTIPO DE BAJA
 

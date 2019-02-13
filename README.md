@@ -122,13 +122,13 @@ El resultado final del análisis realizado se tradujo en: Una pareja de esposos 
 1. **User Persona Principal - Mario Casanova**  
 Los usuarios y usuarias más rentables de CID FARMA son aquellos que adquieren el servicio de Capacitaciones "In House" o paquetes de cursos para un grupo grande de profesionales, y otros servicios de actualización y gestion para sus instituciones. El Dr. Mario Casanova representa el perfil de estos usuarios o usuarias, al ser una persona con capacidad de decisión para la contratación de servicios en beneficio de la institución que dirige o representa y la necesidad de mejorar los niveles de calidad de la misma.
 
-<p align="center"><img src="https://i.ibb.co/RvVxh5M/Persona-1.png" alt="User-Persona-1" width:"700" height:"400">
+<p align="center"><img src="https://i.ibb.co/RvVxh5M/Persona-1.png" alt="User-Persona-1" width:"500" height:"300">
 </p>
 
 2. **User Persona Principal - María Juana Roche**  
 CID FARMA tiene interés en ofrecer cursos de actualización de forma virtual para personas que tengan dificultad de hacerlo de forma presencial, ya sea por un factor de distancia o tiempo. María Juana Roche tiene el perfil de una persona a quien le gusta estar actualizada profesionalmente pero que, al encontrase laborando fuera de Lima, tiene dificultades para acceder a cursos de su interés porque usualmente se dan en la modalidad presencial. Por esta razón, la Químico Farmacéutica Roche, interesada en comprar cursos online, es nuestra segunda User Persona.
 
-<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-Persona-2" width:"700" height:"400">
+<p align="center"><img src="https://i.ibb.co/wzf1KPD/User-Persona-2.png" alt="User-Persona-2" width:"500" height:"300">
 </p>
 
 ### Customer Journey Map

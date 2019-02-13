@@ -82,7 +82,7 @@ Borradores de investigación realizada: [Cuadro preliminar de análisis](https:/
 
 **Resultado**  
 Cuadro final de Benchmarking
-<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="700" height="600">
+<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="650" height="550">
 </p>
 
 ## Problemas identificados en la investigación
@@ -100,7 +100,7 @@ Cuadro final de Benchmarking
 
 Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: 
 
-|  | Temas |  |
+|  |  |  |
 | --- | --- | --- |
 |Dificultades de la modalidad presencial|Importancia y dificultades de la Certificación|Calidad del curso/Valoración del aprendizaje|
 |Docentes|Recomendaciones o experiencias de otros|Uso del formulario de contacto|
@@ -122,24 +122,21 @@ El resultado final del análisis realizado se tradujo en: Una pareja de esposos 
 1. **User Persona Principal - Mario Casanova**  
 Los usuarios y usuarias más rentables de CID FARMA son aquellos que adquieren el servicio de Capacitaciones "In House" o paquetes de cursos para un grupo grande de profesionales, y otros servicios de actualización y gestion para sus instituciones. El Dr. Mario Casanova representa el perfil de estos usuarios o usuarias, al ser una persona con capacidad de decisión para la contratación de servicios en beneficio de la institución que dirige o representa y la necesidad de mejorar los niveles de calidad de la misma.
 
-<p align="center"><img src="https://i.ibb.co/x60ybd9/User-Persona1.png" alt="User-Persona-1" width="600" height="450">
+<p align="center"><img src="https://i.ibb.co/x60ybd9/User-Persona1.png" alt="User-Persona-1" width="750" height="600">
 </p>
 
 2. **User Persona Principal - María Juana Roche**  
 CID FARMA tiene interés en ofrecer cursos de actualización de forma virtual para personas que tengan dificultad de hacerlo de forma presencial, ya sea por un factor de distancia o tiempo. María Juana Roche tiene el perfil de una persona a quien le gusta estar actualizada profesionalmente pero que, al encontrase laborando fuera de Lima, tiene dificultades para acceder a cursos de su interés porque usualmente se dan en la modalidad presencial. Por esta razón, la Químico Farmacéutica Roche, interesada en comprar cursos online, es nuestra segunda User Persona.
 
-<p align="center"><img src="https://i.ibb.co/MZVVjpv/User-Persona2.png" alt="User-Persona-2" width="600" height="450">
+<p align="center"><img src="https://i.ibb.co/MZVVjpv/User-Persona2.png" alt="User-Persona-2" width="750" height="600">
 </p>
 
 ### Customer Journey Map
-Dentro de la definición del público objetivo y ya teniendo definido nuestro User Persona (Principal) realizaremos el "Customer Journey Map"(mapa de experiencia del cliente, desde que se presenta hasta finalizar el servicio). Utilizamos la herramienta para concluir, que puntos de contacto no cumplen con lo que el cliente espera, para mejoramos las malas experiencia que se llevan con nuestro servicio.
+En el gráfico 01, se puede observar que el usuario o usuaria pasa por 8 momentos en todo el proceso, comenzando con el momento de cómo se enteran de CID FARMA hasta la entrega de la certificación al finalizar el curso. Cada momento tiene puntos de contacto, en los cuales se evalúa si la experiencia de los usuarios o usuaruas es positiva o negativa. ¿Cómo lo hacemos? - Cada usuario que compra el servicio pasa el mismo proceso, para poder concluir y definir si el usuario tuvo una experiencia positiva o negativa nos tenemos que preguntar ¿Qué espera el usuario? vs ¿Qué recibe el usuario? Si el usuario recibe lo que espera, entonces fue una experiencia positiva y si no coinciden fue una experiencia negativa, en la que se tiene que trabajar.
 
-Para detallar mejor, en el grafico pueden observar que el usuario pasa por 8 momentos en todo el proceso, comenzando con el momento de cómo se presenta CID FARMA (¿Cómo logran saber de el?) hasta la entrega de la certificación. Cada momento tiene puntos de contacto, en los cuales nosotros tenemos que evaluar la experiencia de los usuarios sea positiva o negativa. ¿Cómo lo hacemos? - Cada usuario que compra el servicio pasa el mismo proceso, para poder concluir y definir si el usuario tuvo una experiencia positiva o negativa nos tenemos que preguntar ¿Qué espera el usuario? vs ¿Qué recibe el usuario? Si el usuario recibe lo que espera, entonces fue una experiencia positiva y si no coinciden fue una experiencia negativa, en la que se tiene que trabajar.
+Conclusión, tenemos actualmente tres puntos de contacto que debemos mejorar, la mayoría relacionados a la presentación de los servicios vía página web. Los momentos como las recomendaciones, la búsqueda en Google, el contactar y coordinar inscripción y la aplicación del curso logran dar al usuario una experiencia positiva. En este sentido, los puntos de contacto más resaltantes son "las recomendaciones" y "el dictado del curso y seminario", pues realmente cumplen con que el usuario o usuaria espera.
 
-Conclusión, tenemos actualmente tres puntos de contacto que debemos mejorar y todos están relacionados a la presentación del servicio en la web (página web).
- Los momentos como la presentación, la búsqueda, contactar, coordinar inscripción y aplicación del curso, logran dar al usuario una experiencia positiva. Los puntos de contacto más resaltantes son "recomendación" y "Dictado del curso y seminario", realmente cumplen con que el usuario espera.
-
-El Customer Journey Map Principal se ha creado en base al flujo de compra de cursos de forma individual que corresponde a una experiencia común de los usuarios N° 01 y N° 02. Mientras que el Customer Journey Map Secundario se centra en la experiencia de adquisición de capacitacio
+El Customer Journey Map Principal se ha creado en base al flujo de compra de cursos de forma individual que corresponde a una experiencia común de los usuarios N° 01 y N° 02. Mientras que el Customer Journey Map Secundario se centra en la experiencia de adquisición de capacitaciones "In House".
 
 **Resultado: CJM Principal**
 <p align="center"><img src="https://i.ibb.co/nfd5H6L/Customer-Journey-Map-Principal.png" alt="CID- FARMACustomerJM" width="800" height="450" />

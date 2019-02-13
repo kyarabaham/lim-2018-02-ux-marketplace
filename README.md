@@ -75,14 +75,14 @@ En el cuadro adjunto se puede visualizar las 6 empresas (3 locales y 3 internaci
 
 **Proceso**  
 Borradores de investigación realizada: [Cuadro preliminar de análisis](https://drive.google.com/file/d/1ao0cxYP1lkaR_w_h5JBQn1zNFiBw-HKw/view?usp=sharing).
-<p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="300" height="200" />
-<img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="300" height="200" />
-<img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="300" height="200" />
+<p align="center"><img src="https://i.ibb.co/XkF4y7c/Borrador-Parte-1.jpg" alt="BenchmarkProcess_1" width="350" height="250" />
+<img src="https://i.ibb.co/yhfsQTC/Borrador-Parte-2.jpg" alt="BenchmarkProcess_2" width="350" height="250" />
+<img src="https://i.ibb.co/2vL4yGq/Borrador-Parte-3.jpg" alt="BenchmarkProcess_3" width="350" height="250" />
 </p>
 
 **Resultado**  
 Cuadro final de Benchmarking
-<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="750" height="650">
+<p align="center"><img src="https://i.ibb.co/zRcnM0T/Benchmark-CID-FARMA.png" alt="Benchmark-CID-FARMA" width="850" height="750">
 </p>
 
 ## Problemas identificados en la investigación
@@ -100,8 +100,8 @@ Cuadro final de Benchmarking
 
 Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: 
 
-|  |  |  |
-| --- | --- | --- |
+| | | |
+|-|-|-|
 |Dificultades de la modalidad presencial|Importancia y dificultades de la Certificación|Calidad del curso/Valoración del aprendizaje|
 |Docentes|Recomendaciones o experiencias de otros|Uso del formulario de contacto|
 |Cursos online y/o aula virtual|Compra online|Institución confiable o de prestigio|
@@ -122,13 +122,13 @@ El resultado final del análisis realizado se tradujo en: Una pareja de esposos 
 1. **User Persona Principal - Mario Casanova**  
 Los usuarios y usuarias más rentables de CID FARMA son aquellos que adquieren el servicio de Capacitaciones "In House" o paquetes de cursos para un grupo grande de profesionales, y otros servicios de actualización y gestion para sus instituciones. El Dr. Mario Casanova representa el perfil de estos usuarios o usuarias, al ser una persona con capacidad de decisión para la contratación de servicios en beneficio de la institución que dirige o representa y la necesidad de mejorar los niveles de calidad de la misma.
 
-<p align="center"><img src="https://i.ibb.co/x60ybd9/User-Persona1.png" alt="User-Persona-1" width="750" height="600">
+<p align="center"><img src="https://i.ibb.co/x60ybd9/User-Persona1.png" alt="User-Persona-1" width="800" height="600">
 </p>
 
 2. **User Persona Principal - María Juana Roche**  
 CID FARMA tiene interés en ofrecer cursos de actualización de forma virtual para personas que tengan dificultad de hacerlo de forma presencial, ya sea por un factor de distancia o tiempo. María Juana Roche tiene el perfil de una persona a quien le gusta estar actualizada profesionalmente pero que, al encontrase laborando fuera de Lima, tiene dificultades para acceder a cursos de su interés porque usualmente se dan en la modalidad presencial. Por esta razón, la Químico Farmacéutica Roche, interesada en comprar cursos online, es nuestra segunda User Persona.
 
-<p align="center"><img src="https://i.ibb.co/MZVVjpv/User-Persona2.png" alt="User-Persona-2" width="750" height="600">
+<p align="center"><img src="https://i.ibb.co/MZVVjpv/User-Persona2.png" alt="User-Persona-2" width="800" height="600">
 </p>
 
 ### Customer Journey Map
@@ -149,40 +149,29 @@ El Customer Journey Map Principal se ha creado en base al flujo de compra de cur
 ## Proceso de Ideación 
 
 ### Problem Srtatements 
-Definiendo a nuestro público objetivo y teniendo los problemas identificados en la investigación, definimos 8 problem statements en los cuales 5 son de nuestro usuario principal y 3 de nuestro usuario secundario. Los principales problemas detectados tienen relación con la desconfianza y falta de información que le trasmite la página.
-Detallaremos el proceso de los Problem Statements:
+Teniendo ya definidos a nuestros User Persona y teniendo los problemas identificados en la investigación, definimos *8 problem statements* de los cuales 5 pertenecen a nuestro usuario principal y 3 a nuestra usuaria secundaria. Los principales problemas detectados tienen relación con la desconfianza y falta de información que les trasmiten las páginas web como las de CID FARMA. A continuación se detallan estos problemas señalando aquellos priorizados sobre los cuáles se trabajarán las soluciones:
 
-#### PROCESO PROBLEM STATEMENTS
+1. El Dr. Casanova `necesita ver recomendaciones de usuarios que llevaron cursos en CID FARMA`, para que tenga la seguridad de estar en una institución seria y confiable. _(Priorizado)_
+2. El Dr. Casanova `no gusta del llenado de formularios de contacto` porque le parece inseguro, innecesario y tedioso. _(Priorizado)_
+3. El Dr. Casanova `requiere ver que instituciones certifican los servicios que ofrece CID FARMA`, para estar seguro de la calidad y seriedad de la institución.
+4. El Dr. Casanova `desconfía de las compras por internet` por temor al phishing y que lo estafen. _(Priorizado)_
+5. El Dr. Casanova `necesita conocer la plana docente y el temario del curso`, para asegurarse de la calidad del curso y contratarlo. _(Priorizado)_
+6. La Químico Farmacéutica Roche `necesita comprar cursos virtuales`, porque reside en una provincia fuera de Lima.
+7. La Químico Farmacéutica Roche `requiere que la información del curso se muestre de forma concisa y detallada`, para ahorrar tiempo al contratar el curso. _(Priorizado)_
+8. La Químico Farmacéutica Roche `necesita obtener su diploma de certificación de forma oportuna`, para demostrar su constante actualización profesional ante su Institución.
 
-##### Usuario N° 01 - Doctor: Mario Casanova
-- El doctor Casanova necesita ver recomendaciones de usuarios que llevaron cursos en CID FARMA, para que tenga la seguridad de estar en una institución seria y confiable.
-- El doctor Casanova no le gusta llenar formulario de contacto porque le parece inseguro, innecesario y tedioso.  
-- El doctor Casanova requiere ver que instituciones certifican los servicios que ofrece CID FARMA, para estar seguro de la calidad y seriedad de la institución.
-- El doctor Casanova desconfía de las compras por internet por temor al phishing y que lo estafen.
-- El doctor Casanova necesita conocer la plana docente y el temario del curso, para asegurarse de la calidad del curso y contratarlo.
+### How Might We – HMW
+Del proceso de identificación de problemas de nuestros usuarios, se procedió a definir los _How might we_ correspondientes, teniendo en cuenta que los 5 primeros tienen que ver con los problemas priorizados. Aquí los resultados:
 
-##### Usuaria N° 02 - Farmacéutica: María Juana Roche
-- La farmacéutica Roche necesita comprar cursos virtuales, porque reside en una provincia fuera de Lima.
-- La farmacéutica Roche requiere que la información del curso se muestre de forma concisa y detallada, para ahorrar tiempo y contratar el curso.
-- La farmacéutica Roche necesita obtener su diploma de certificación de forma oportuna, para contar lo tiempo.
-
-
-### HOW MIGHT WE – HMW
-Con los problemas definidos iniciaremos el proceso de ideación, agregando a cada Problem Statements lo siguiente “How might we”, con esto estableceremos preguntas que nos ayudara a enfocarnos en cómo podríamos hacer que el problema identificado se solucione. Luego de realizar las preguntas de cada Problem Statements comenzamos hacer lluvia de ideas para poder tener diversas supuestas soluciones. Concluyendo con soluciones en común según los problemas identificados en nuestros usuarios principal y secundario.
-
-Definiendo
- Howw might we ....
-- Mostrar las recomendaciones de usuarios de CID FARMA en la página principal?
-- Hacer más seguro, atractivo y  práctico de rellenar el formulario de contacto?
-- Visibilizar a las instituciones que certifican los servicios de CID FARMA?
-- Hacer más seguro el entorno de compra de servicios en la página web de CID FARMA?
-- Colocar información sobre la plana docente y temario del curso?
-- Recrear un entorno educativo virtual con opción de compra a través de la página web?
-- Mostrar información de los cursos de forma que pueda verse en una sola vista? 
-- Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?
-
-<p align="center"><img src="https://i.ibb.co/dLPvWV2/lluvia-de-ideas.png" alt="lluvia-de-ideas" width:"700" height:"400">
-</p>
+How might we...
+1. Mostrar las recomendaciones de usuarios de CID FARMA en la página principal?
+2. Hacer más seguro el entorno de compra de servicios en la página web de CID FARMA?
+3. Colocar información sobre la plana docente y temario del curso de forma concisa?
+4. Mostrar información de los cursos de forma que pueda verse en una sola vista? 
+5. Hacer más seguro, atractivo y  práctico de rellenar el formulario de contacto?
+6. _Visibilizar a las instituciones que certifican los servicios de CID FARMA?_
+7. _Recrear un entorno educativo virtual con opción de compra a través de la página web?_
+8. _Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?_
 
 ### DOCUMENTOS COMPLEMENTARIOS
 #### Flujo de usuario

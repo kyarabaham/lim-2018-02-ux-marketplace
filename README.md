@@ -101,7 +101,7 @@ Cuadro final de Benchmarking
 Se identificaron 15 grupos de temas recurrentes como producto de las 9 entrevitas realizadas, 2 encuestas online y los datos recabados de la entrevista con la cliente. Estos son: 
 
 |Dificultades de la modalidad presencial|Importancia y dificultades de la Certificación|Calidad del curso/Valoración del aprendizaje|
-|-|-|-|
+|:-|:-|:-|
 |**Docentes**|__Recomendaciones o experiencias de otros__|**Uso del formulario de contacto**|
 |**Cursos online y/o aula virtual**|__Compra online__|**Institución confiable o de prestigio**|
 |**Seguridad**|__Modalidad para obtener información__|**Metodología y material didáctico**|
@@ -172,16 +172,24 @@ How might we...
 7. Recrear un entorno educativo virtual con opción de compra a través de la página web?
 8. Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?
 
-### DOCUMENTOS COMPLEMENTARIOS
-#### Flujo de usuario
-Utilizamos el flujo de usuario para documentar algoritmos y funcionaliades, basado a principales las tareasa del usuario identificando los procesos a grandes rasgos y los objetos, comenzamos a analizar el flujo.
-Al ingresar a la página de inicio observara la información de manera horizontal en este orden comenzando con la sección de recomendaciones, quienes somos, cursos y seminarios, otros servicios, docente, instituciones que certifican y contáctanos. Según los problemas y/o necesidades de nuestro “User Persona” definimos pequeñas tareas. La primera tarea o flujo es la compra de un curso. Para ello te puedes ingresar directamente mediante “sección de recomendaciones” o ir a “cursos y seminarios”, ambos lo dirigen a una pantalla donde muestra los cursos y seminarios, al identificar el curso o seminario de su preferencia le dan a la opción ver más, le mostrara una pantalla con toda la información detallada  donde decides si le interesa el curso; si no  le interesa regresa a la página de inicio y si es de su interés se dirige  a “Ficha de inscripción” , al terminar de llenar le sal la opción de pagos, para terminar el proceso decides si deseas “añadir al carrito”, realizas el pago en línea  y tienes acceso al curso o por “medio de datos de transferencia y contacto” continuando con una pantalla de “verificación de pago” logras acceder al curso.  Por otro lado, si deseas contar con otro servicio, por medio de “mis servicios”, que se encuentra en la página de inicio, ingresas a la pantalla donde te detallan los servicios y escoges el de tu preferencia y continua el mismo flujo.
-El ultimo flujo  es para poder  obtener mayor información del docente que dictara el servicio, en este caso, nos dirigimos a la sección de docentes donde nos da un breve resumen del docente con la opción de “leer más”, para obtener una información detallada del docente y al terminar podemos regresar al inicio.
+### Prototipado
 
-<p align="center"><img src="" alt="Flujo-De-Usuarix" width:"700" height:"400"></p>
+**Flujo de usuario**  
 
+Para este caso hemos considerado 5 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se describe el flujo más destacado:
 
-#### Mapa de Sitio
+>**Flujo: Compra de un curso**  
+- El usuario o usuaria puede ingresar de tres maneras a la sección de cursos: La primera a través del botón 'VER CURSOS' que se muestra en el Inicio. La segunda, a través del menú, desplegando la opción de Servicios y ubicando el texto 'Cursos y seminarios'. La tercera es a través de la sección 'Nuestros servicios' a la cual se accede al realizar el _scrolling_ y luego eligiendo la opción de 'Cursos y Seminarios'. 
+- Todas estas opciones van a dirigir al usuario a una pantalla que muestra los cursos y seminarios que se ofrecen. Al identificar el curso o seminario de su preferencia, tiene la opción de ver información detallada a través del botón 'VER MÁS' que le mostrara una pantalla datos relevantes al servicio.
+- Si el curso no es de su agrado, tiene la opción de regresar a la página anterior de cursos; caso contrario, puede adquirir el curso a través del botón 'FICHA DE INSCRIPCIÓN'.
+- Se mostrará una Ficha de inscripción que deberá rellenar para luego realizar el pago correspondiente. Si decide no seguir con la transacción puede retornar a la página anterior al accionar la 'X' de salir. Si decide seguir adelante, lo hará a través del botón 'ENVIAR Y VER OPCIONES DE PAGO'.
+- Una vez en esta vista, elegirá dentro de las 3 opciones de pago y luego se le brindará información sobre el éxito de su transacción y los pasos a seguir luego de concretado el pago.
+- Al finalizar tendrá la opción de verificar si se encuentra inscrito o inscrita y también la opción de retornar al 'Inicio' para seguir navegando por la plataforma en búsqueda de información.
+
+[Flujo de Usuario](https://drive.google.com/open?id=1hE7puP6oDUx9Mq59ajiLXWCDEt551tda)
+
+**Mapa de Sitio**  
+
 Antes de comenzar con nuestro prototipo de baja, desarrollamos el mapa de sitio de CID FARMA porque es esencial en el proceso de su diseño web, la importancia de realizar antes del prototipo es poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA. Por eso comenzamos agrupar y categorizar el contenido según las necesidades y/o problemas del User Persona. 
 Priorizamos en la pagina de inicio a las siguientes secciones:
 - Slider de Experiencia, donde nos dirige a los cursos y seminarios.
@@ -191,8 +199,6 @@ Priorizamos en la pagina de inicio a las siguientes secciones:
 - Empresas que nos avalan
 - Contacto, dentro de contacto encuentras el formulario de pedido.
 De esta forma desarrollamos un orden y una jerarquía de información.
-
-<p align="center"><img src="https://i.ibb.co/qp44B8V/IMG-20190211-115006.jpg" alt="IMG-20190211-115006" width:"700" height:"400"></p>
 
 ## PROTOTIPO DE BAJA
 

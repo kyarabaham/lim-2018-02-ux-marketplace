@@ -175,17 +175,21 @@ How might we...
 ### Prototipado
 
 **Flujo de usuario**  
-Para este caso hemos considerado 5 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se describe el flujo más destacado:
+Para este caso hemos considerado 2 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se describe el flujo más destacado:
 
->**Flujo: Compra de un curso**  
+>**Flujo 1: Compra de un curso a través de depósito bancario**  
+
+<p align="center"><img src="https://i.ibb.co/tc5nS3z/Flujo-COMPRA-CURSO-Usuaria-2.png" alt="FlujoUsuario1" width="800" height="600" />
+</p>
+
 - El usuario o usuaria puede ingresar de tres maneras a la sección de cursos: La primera a través del botón 'VER CURSOS' que se muestra en el Inicio. La segunda, a través del menú, desplegando la opción de Servicios y ubicando el texto 'Cursos y seminarios'. La tercera es a través de la sección 'Nuestros servicios' a la cual se accede al realizar el _scrolling_ y luego eligiendo la opción de 'Cursos y Seminarios'. 
 - Todas estas opciones van a dirigir al usuario a una pantalla que muestra los cursos y seminarios que se ofrecen. Al identificar el curso o seminario de su preferencia, tiene la opción de ver información detallada a través del botón 'VER MÁS' que le mostrara una pantalla datos relevantes al servicio.
 - Si el curso no es de su agrado, tiene la opción de regresar a la página anterior de cursos; caso contrario, puede adquirir el curso a través del botón 'FICHA DE INSCRIPCIÓN'.
 - Se mostrará una Ficha de inscripción que deberá rellenar para luego realizar el pago correspondiente. Si decide no seguir con la transacción puede retornar a la página anterior al accionar la 'X' de salir. Si decide seguir adelante, lo hará a través del botón 'ENVIAR Y VER OPCIONES DE PAGO'.
-- Una vez en esta vista, elegirá dentro de las 3 opciones de pago y luego se le brindará información sobre el éxito de su transacción y los pasos a seguir luego de concretado el pago.
+- Una vez en esta vista, elegirá dentro de las 2 opciones de pago y luego se le brindará información sobre el éxito de su transacción y los pasos a seguir luego de concretado el pago.
 - Al finalizar tendrá la opción de verificar si se encuentra inscrito o inscrita y también la opción de retornar al 'Inicio' para seguir navegando por la plataforma en búsqueda de información.
 
-Ver [Flujo de Usuario](https://drive.google.com/open?id=1hE7puP6oDUx9Mq59ajiLXWCDEt551tda) completo.
+Ver [Flujo de Usuario 2](https://drive.google.com/open?id=1fAYHWFwVr1nAiLDW0l2lU8dOTJ1VFPQD).
 
 **Mapa de Sitio**  
 Para poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA, se decidió por categorizar el contenido según las necesidades y/o problemas de los User Persona. Logrando establecer el siguiente listado de secciones:
@@ -202,9 +206,9 @@ Para poder visualizar la distribución de contenidos y establecer un orden para 
 - Contáctanos
 - Blog
 
-Ver [Mapa de sitio]() completo.
+Ver [Mapa de sitio](https://drive.google.com/file/d/1jpeUuixby76jmdO8SqPXHEG1QvG0n0Db/view?usp=sharing) completo.
 
-**Prototipo de baja**  
+**Prototipo de baja (Mobile y Desktop)**  
 Breve descripción de secciones principales:
 
 - Página de `Inicio` con slider mostrando las experiencias de otros usuarios y usuarias con determinado servicio y un botón que los dirige a la sección de 'Cursos y seminarios'.
@@ -213,7 +217,7 @@ Breve descripción de secciones principales:
 - Sección de `Instituciones que nos certifican` ya que de esa forma se da valor a los servicios ofrecidos.
 - Sección `Contáctanos` con información relevante de contacto de CID FARMA. 
 
-Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o los usuarios:
+Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o los usuarios (Mobile):
 
 |Flujo: Buscar/Ver información sobre cursos|Flujo: Pedido de servicio de Capacitación In House|
 |:--:|:--:|
@@ -241,8 +245,11 @@ Se realizó el testo a 5 usuarios con la finalidad de poder mejorar la experienc
 - "La información del docente debe estar antes que certificaciones por jerarquía".
 - "Deben incorporar números de contacto sin tener que ir a contacto".
 - La sección de información detalla de cursos se encuentra muy recargada.
-   
-**Prototipo de alta** 
+ 
+**Prototipo de media (Desktop)**  
+(Falta agregar datos)
+
+**Prototipo de alta (Mobile)** 
 A partir de los 5 testeos realizados se integraron las principales observaciones recogidas. A continuación se muestran las imágenes de prototipo de alta de mostrando flujos de las tareas priorizada y otras vistas:
 
 |Vista de Sección de Experiencias (Inicio) e interacción con Menú|Vista de secciones: Docentes, Nos avalan y Contáctanos|
@@ -254,4 +261,4 @@ A partir de los 5 testeos realizados se integraron las principales observaciones
 |<p align="center"><img src="https://i.ibb.co/hMXbZ4y/Flujo-Compra-Curso.png" alt="Prototipo-FlujoPedidoServicioInHouse" width="500" height="380"></p>|<p align="center"><img src="https://i.ibb.co/6sTdLrQ/Flujo-Cap-In-House.png" alt="Prototipo-FlujoCompraCurso" width="400" height="200"></p>|
 
 _**Conclusiones del Testeo de prototipo de alta**_
-Interactuar con prototipo de alta [aquí]().
+Interactuar con prototipo de alta [aquí](https://www.figma.com/file/T67eaCVoBksyQ7QEHftcXnYo/Prototipo-de-Media-Desktop).

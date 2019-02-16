@@ -243,7 +243,15 @@ Se realizó el testo a 5 usuarios con la finalidad de poder mejorar la experienc
 - La sección de información detalla de cursos se encuentra muy recargada.
    
 **Prototipo de alta** 
-En construcción...
+A partir de los 5 testeos realizados se integraron las principales observaciones recogidas. A continuación se muestran las imágenes de prototipo de alta de mostrando flujos de las tareas priorizada y otras vistas:
+
+|Vista de Sección de Experiencias (Inicio) e interacción con Menú|Vista de secciones: Docentes, Nos avalan y Contáctanos|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/mGtKbzq/Vista-Menu.png" alt="Prototipo-Inicio" width="500" height="300"></p>|<p align="center"><img src="https://i.ibb.co/Ttrv85w/Vista-Secciones.png" alt="Prototipo-OtrasSecciones" width="500" height="300"></p>|
+
+|Flujo: Pedido de servicio de Capacitación "In House"|Flujo: Compra de curso a través de depósito|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/hMXbZ4y/Flujo-Compra-Curso.png" alt="Prototipo-FlujoPedidoServicioInHouse" width="500" height="380"></p>|<p align="center"><img src="https://i.ibb.co/6sTdLrQ/Flujo-Cap-In-House.png" alt="Prototipo-FlujoCompraCurso" width="400" height="200"></p>|
 
 _**Conclusiones del Testeo de prototipo de alta**_
 Interactuar con prototipo de alta [aquí]().

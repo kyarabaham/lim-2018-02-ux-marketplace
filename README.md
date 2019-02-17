@@ -177,36 +177,18 @@ How might we...
 **Flujo de usuario**  
 Para este caso hemos considerado 2 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se describe el flujo más destacado:
 
->**Flujo 1: Compra de un curso a través de depósito bancario**  
+*Flujo: Pedido de curso institucional*  
 
-<p align="center"><img src="https://i.ibb.co/BPCLSct/Flujo-COMPRA-CURSO-Usuaria-2.png" alt="FlujoUsuario1" width="850" height="650" />
+<p align="center"><img src="https://i.ibb.co/gwp88Ms/Flujo-PEDIDO-INSTITUCIONAL-Usuario-1.png" alt="FlujoUsuario1" width="800" height="550" />
 </p>
 
-- El usuario o usuaria puede ingresar de tres maneras a la sección de cursos: La primera a través del botón 'VER CURSOS' que se muestra en el Inicio. La segunda, a través del menú, desplegando la opción de Servicios y ubicando el texto 'Cursos y seminarios'. La tercera es a través de la sección 'Nuestros servicios' a la cual se accede al realizar el _scrolling_ y luego eligiendo la opción de 'Cursos y Seminarios'. 
-- Todas estas opciones van a dirigir al usuario a una pantalla que muestra los cursos y seminarios que se ofrecen. Al identificar el curso o seminario de su preferencia, tiene la opción de ver información detallada a través del botón 'VER MÁS' que le mostrara una pantalla datos relevantes al servicio.
-- Si el curso no es de su agrado, tiene la opción de regresar a la página anterior de cursos; caso contrario, puede adquirir el curso a través del botón 'FICHA DE INSCRIPCIÓN'.
-- Se mostrará una Ficha de inscripción que deberá rellenar para luego realizar el pago correspondiente. Si decide no seguir con la transacción puede retornar a la página anterior al accionar la 'X' de salir. Si decide seguir adelante, lo hará a través del botón 'ENVIAR Y VER OPCIONES DE PAGO'.
-- Una vez en esta vista, elegirá dentro de las 2 opciones de pago y luego se le brindará información sobre el éxito de su transacción y los pasos a seguir luego de concretado el pago.
-- Al finalizar tendrá la opción de verificar si se encuentra inscrito o inscrita y también la opción de retornar al 'Inicio' para seguir navegando por la plataforma en búsqueda de información.
-
-Ver [Flujo de Usuario 2](https://i.ibb.co/gwp88Ms/Flujo-PEDIDO-INSTITUCIONAL-Usuario-1.png).
+*Ver [Flujo: Compra de un curso a través de depósito bancario](https://drive.google.com/file/d/17VztU-74QODu7VMwcmuMfIMnmpeQ_yN7/view?usp=sharing).*
 
 **Mapa de Sitio**  
-Para poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA, se decidió por categorizar el contenido según las necesidades y/o problemas de los User Persona. Logrando establecer el siguiente listado de secciones:
-- Experiencias/Recomendaciones
-- Sobre CID FARMA
-- Nuestros servicios: 
-    - Cursos y seminarios:
-        -  Detalle de cursos
-    - Consultoría
-    - Asesoría
-    - Capacitaciones in House
-- Docentes
-- Instituciones que certifican
-- Contáctanos
-- Blog
+Para poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA, se decidió por categorizar el contenido según las necesidades y/o problemas de los User Persona. Logrando establecer el siguiente diagrama:
 
-Ver [Mapa de sitio](https://drive.google.com/file/d/1jpeUuixby76jmdO8SqPXHEG1QvG0n0Db/view?usp=sharing) completo.
+<p align="center"><img src="https://i.ibb.co/WsLkCMN/Mapa-de-sitio.png" alt="MapaDeSitio" width="600" height="500" />
+</p>
 
 **Prototipo de baja (Mobile y Desktop)**  
 Breve descripción de secciones principales:

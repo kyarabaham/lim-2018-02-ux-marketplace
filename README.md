@@ -175,14 +175,14 @@ How might we...
 ### Prototipado
 
 **Flujo de usuario**  
-Para este caso hemos considerado 2 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se describe el flujo más destacado:
+Para este caso hemos considerado 2 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se muestra el flujo más destacado:
 
 *Flujo: Pedido de curso institucional*  
 
 <p align="center"><img src="https://i.ibb.co/gwp88Ms/Flujo-PEDIDO-INSTITUCIONAL-Usuario-1.png" alt="FlujoUsuario1" width="800" height="550" />
 </p>
 
-*Ver [Flujo: Compra de un curso a través de depósito bancario](https://drive.google.com/file/d/17VztU-74QODu7VMwcmuMfIMnmpeQ_yN7/view?usp=sharing).*
+*Flujo: Compra de un curso a través de depósito bancario [(Ver aquí)](https://drive.google.com/file/d/17VztU-74QODu7VMwcmuMfIMnmpeQ_yN7/view?usp=sharing).*
 
 **Mapa de Sitio**  
 Para poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA, se decidió por categorizar el contenido según las necesidades y/o problemas de los User Persona. Logrando establecer el siguiente diagrama:
@@ -203,7 +203,7 @@ Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o l
 
 |Flujo: Buscar/Ver información sobre cursos|Flujo: Pedido de servicio de Capacitación In House|
 |:--:|:--:|
-|<p align="center"><img src="https://i.ibb.co/5K2YLYB/Flujo-Ver-Curso.jpg" alt="Prototipo-FlujoVerCurso" width="505" height="200"></p>|<p align="center"><img src="https://i.ibb.co/Lzh4Db9/Flujo-Pedido-Cap-In-House.jpg" alt="Prototipo-FlujoCapInHouse" width="510" height="200"></p>|
+|<p align="center"><img src="https://i.ibb.co/5K2YLYB/Flujo-Ver-Curso.jpg" alt="Prototipo-FlujoVerCurso" width="505" height="190"></p>|<p align="center"><img src="https://i.ibb.co/Lzh4Db9/Flujo-Pedido-Cap-In-House.jpg" alt="Prototipo-FlujoCapInHouse" width="510" height="190"></p>|
 
 |Flujo: Ver Servicios y Quiénes lo Certifican|Flujo: Búsqueda de docentes|
 |:--:|:--:|
@@ -212,6 +212,12 @@ Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o l
 |Flujo: Compra de curso|
 |:--:|
 |<p align="center"><img src="https://i.ibb.co/b37SxYr/Flujo-Comprar-Curso.jpg" alt="Prototipo-ComprarCurso" width="320" height="200"></p>|
+
+Imágenes de prototipo de baja de acuerdo a flujo de usuarios (Desktop):
+
+|Flujo: Compra de curso|Flujo: Pedido de servicio de Capacitación In House|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/KF3GXNq/Flujo-Compra-Curso.png" alt="Prototipo-DesktopCompra" width="420" height="400"></p>|<p align="center"><img src="https://i.ibb.co/B2Gy0Yw/Flujo-Pedido-Cap-In-House.png" alt="Prototipo-DesktopCapInHouse" width="300" height="500"></p>|
 
 _**Conclusiones del Testeo de prototipo de baja**_
 

@@ -217,7 +217,7 @@ Imágenes de prototipo de baja de acuerdo a flujo de usuarios (Desktop):
 
 |Flujo: Compra de curso|Flujo: Pedido de servicio de Capacitación In House|
 |:--:|:--:|
-|<p align="center"><img src="https://i.ibb.co/KF3GXNq/Flujo-Compra-Curso.png" alt="Prototipo-DesktopCompra" width="400" height="400"></p>|<p align="center"><img src="https://i.ibb.co/B2Gy0Yw/Flujo-Pedido-Cap-In-House.png" alt="Prototipo-DesktopCapInHouse" width="300" height="500"></p>|
+|<p align="center"><img src="https://i.ibb.co/KF3GXNq/Flujo-Compra-Curso.png" alt="Prototipo-DesktopCompra" width="350" height="350"></p>|<p align="center"><img src="https://i.ibb.co/B2Gy0Yw/Flujo-Pedido-Cap-In-House.png" alt="Prototipo-DesktopCapInHouse" width="300" height="500"></p>|
 
 _**Conclusiones del Testeo de prototipo de baja**_
 
@@ -252,11 +252,18 @@ A partir de los 5 testeos realizados se integraron las principales observaciones
 
 |Vista de Sección de Experiencias (Inicio) e interacción con Menú|Vista de secciones: Docentes, Nos avalan y Contáctanos|
 |:--:|:--:|
-|<p align="center"><img src="https://i.ibb.co/mGtKbzq/Vista-Menu.png" alt="Prototipo-Inicio" width="500" height="300"></p>|<p align="center"><img src="https://i.ibb.co/Ttrv85w/Vista-Secciones.png" alt="Prototipo-OtrasSecciones" width="500" height="300"></p>|
+|<p align="center"><img src="https://i.ibb.co/42GXhrV/Vista-Menu.png" alt="Prototipo-Inicio" width="400" height="250"></p>|<p align="center"><img src="https://i.ibb.co/dPKyZqh/Vista-Secciones.png" alt="Prototipo-OtrasSecciones" width="400" height="200"></p>|
 
 |Flujo: Pedido de servicio de Capacitación "In House"|Flujo: Compra de curso a través de depósito|
 |:--:|:--:|
-|<p align="center"><img src="https://i.ibb.co/hMXbZ4y/Flujo-Compra-Curso.png" alt="Prototipo-FlujoPedidoServicioInHouse" width="500" height="380"></p>|<p align="center"><img src="https://i.ibb.co/6sTdLrQ/Flujo-Cap-In-House.png" alt="Prototipo-FlujoCompraCurso" width="400" height="200"></p>|
+|<p align="center"><img src="https://i.ibb.co/yWDbHBw/Flujo-Cap-In-House.png" alt="Prototipo-FlujoPedidoServicioInHouse" width="400" height="200"></p>|<p align="center"><img src="https://i.ibb.co/LnJvMcj/Flujo-Compra-Curso.png" alt="Prototipo-FlujoCompraCurso" width="500" height="380"></p>|
+
+Diseño en alta para mobile en Zeplin [aquí](https://zpl.io/scene/adpRwLn).
 
 _**Conclusiones del Testeo de prototipo de alta**_
-Interactuar con prototipo de alta [aquí](https://www.figma.com/file/T67eaCVoBksyQ7QEHftcXnYo/Prototipo-de-Media-Desktop).
+
+De los 5 usuarias y usuarios testeado se logran extraer las siguientes observaciones:
+- (Faltan dato)
+
+Interactuar con prototipo de alta [aquí](https://www.figma.com/proto/fIAvpx7yEPvcM2S0PgiE9wH5/Prototipo-de-Alta-Mobile?node-id=0%3A1&scaling=scale-down).
+

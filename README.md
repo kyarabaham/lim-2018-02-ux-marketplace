@@ -217,11 +217,11 @@ Imágenes de prototipo de baja de acuerdo a flujo de usuarios (Desktop):
 
 |Flujo: Compra de curso|Flujo: Pedido de servicio de Capacitación In House|
 |:--:|:--:|
-|<p align="center"><img src="https://i.ibb.co/KF3GXNq/Flujo-Compra-Curso.png" alt="Prototipo-DesktopCompra" width="420" height="400"></p>|<p align="center"><img src="https://i.ibb.co/B2Gy0Yw/Flujo-Pedido-Cap-In-House.png" alt="Prototipo-DesktopCapInHouse" width="300" height="500"></p>|
+|<p align="center"><img src="https://i.ibb.co/KF3GXNq/Flujo-Compra-Curso.png" alt="Prototipo-DesktopCompra" width="400" height="400"></p>|<p align="center"><img src="https://i.ibb.co/B2Gy0Yw/Flujo-Pedido-Cap-In-House.png" alt="Prototipo-DesktopCapInHouse" width="300" height="500"></p>|
 
 _**Conclusiones del Testeo de prototipo de baja**_
 
-Se realizó el testo a 5 usuarios con la finalidad de poder mejorar la experiencia de uso del prototipo, previo a su diagramación en alta. Cada usuario aportó recomendaciones e ideas, de las cuáles se destacan:
+Se realizó el testeo a 5 usuarios (mobile) y 3 usuarios (desktop) con la finalidad de poder mejorar la experiencia de uso del prototipo, previo a su diagramación en alta. Cada usuario aportó recomendaciones e ideas, de las cuáles se destacan:
 
 - No se entienden los métodos de pago.
 - Luego de realizar el pago no saben qué más pasa.
@@ -235,7 +235,17 @@ Se realizó el testo a 5 usuarios con la finalidad de poder mejorar la experienc
 - La sección de información detalla de cursos se encuentra muy recargada.
  
 **Prototipo de media (Desktop)**  
-(Falta agregar datos)
+Imágenes de prototipo de media de acuerdo a flujo de usuarios (Desktop) integrando algunas observaciones realizadas en el testeo anterior:
+
+|Flujo: Compra de curso|Flujo: Pedido de servicio de Capacitación In House|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/SJ41Cwd/Flujo-Compra-Curso.png" alt="PrototipoMedia-DesktopCompra" width="420" height="200"></p>|<p align="center"><img src="https://i.ibb.co/SRn7ntj/Flujo-Pedido-Curso.png" alt="PrototipoMedia-DesktopCapInHouse" width="300" height="350"></p>|
+
+_**Conclusiones del Testeo de prototipo de media**_
+
+Se realizó el testeo a 3 usuarios. Algunas de las ideas que más destacaron se muestran a continuación:
+
+- (Faltan dato)
 
 **Prototipo de alta (Mobile)** 
 A partir de los 5 testeos realizados se integraron las principales observaciones recogidas. A continuación se muestran las imágenes de prototipo de alta de mostrando flujos de las tareas priorizada y otras vistas:

@@ -179,7 +179,7 @@ Para este caso hemos considerado 2 flujos que corresponden a los puntos crítico
 
 >**Flujo 1: Compra de un curso a través de depósito bancario**  
 
-<p align="center"><img src="https://i.ibb.co/tc5nS3z/Flujo-COMPRA-CURSO-Usuaria-2.png" alt="FlujoUsuario1" width="800" height="600" />
+<p align="center"><img src="https://i.ibb.co/BPCLSct/Flujo-COMPRA-CURSO-Usuaria-2.png" alt="FlujoUsuario1" width="850" height="650" />
 </p>
 
 - El usuario o usuaria puede ingresar de tres maneras a la sección de cursos: La primera a través del botón 'VER CURSOS' que se muestra en el Inicio. La segunda, a través del menú, desplegando la opción de Servicios y ubicando el texto 'Cursos y seminarios'. La tercera es a través de la sección 'Nuestros servicios' a la cual se accede al realizar el _scrolling_ y luego eligiendo la opción de 'Cursos y Seminarios'. 
@@ -189,7 +189,7 @@ Para este caso hemos considerado 2 flujos que corresponden a los puntos crítico
 - Una vez en esta vista, elegirá dentro de las 2 opciones de pago y luego se le brindará información sobre el éxito de su transacción y los pasos a seguir luego de concretado el pago.
 - Al finalizar tendrá la opción de verificar si se encuentra inscrito o inscrita y también la opción de retornar al 'Inicio' para seguir navegando por la plataforma en búsqueda de información.
 
-Ver [Flujo de Usuario 2](https://drive.google.com/open?id=1fAYHWFwVr1nAiLDW0l2lU8dOTJ1VFPQD).
+Ver [Flujo de Usuario 2](https://i.ibb.co/gwp88Ms/Flujo-PEDIDO-INSTITUCIONAL-Usuario-1.png).
 
 **Mapa de Sitio**  
 Para poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA, se decidió por categorizar el contenido según las necesidades y/o problemas de los User Persona. Logrando establecer el siguiente listado de secciones:

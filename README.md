@@ -172,9 +172,9 @@ How might we...
 7. Recrear un entorno educativo virtual con opción de compra a través de la página web?
 8. Ofrecer la entrega de certificado a tiempo y sin recargos a los usuarios y usuarias de provincia?
 
-### Prototipado
+## Prototipado
 
-**Flujo de usuario**  
+### Flujo de usuario 
 Para este caso hemos considerado 2 flujos que corresponden a los puntos críticos priorizados y a las tareas que serán testeadas durante esta etapa. A continuación se muestra el flujo más destacado:
 
 *Flujo: Pedido de curso institucional*  
@@ -184,13 +184,13 @@ Para este caso hemos considerado 2 flujos que corresponden a los puntos crítico
 
 *Flujo: Compra de un curso a través de depósito bancario [(Ver aquí)](https://drive.google.com/file/d/17VztU-74QODu7VMwcmuMfIMnmpeQ_yN7/view?usp=sharing).*
 
-**Mapa de Sitio**  
+### Mapa de Sitio 
 Para poder visualizar la distribución de contenidos y establecer un orden para navegar en la web de CID FARMA, se decidió por categorizar el contenido según las necesidades y/o problemas de los User Persona. Logrando establecer el siguiente diagrama:
 
 <p align="center"><img src="https://i.ibb.co/WsLkCMN/Mapa-de-sitio.png" alt="MapaDeSitio" width="600" height="500" />
 </p>
 
-**Prototipo de baja (Mobile y Desktop)**  
+### Prototipo de baja (Mobile y Desktop)  
 Breve descripción de secciones principales:
 
 - Página de `Inicio` con slider mostrando las experiencias de otros usuarios y usuarias con determinado servicio y un botón que los dirige a la sección de 'Cursos y seminarios'.
@@ -199,7 +199,7 @@ Breve descripción de secciones principales:
 - Sección de `Instituciones que nos certifican` ya que de esa forma se da valor a los servicios ofrecidos.
 - Sección `Contáctanos` con información relevante de contacto de CID FARMA. 
 
-Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o los usuarios (Mobile):
+- Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o los usuarios (Mobile):
 
 |Flujo: Buscar/Ver información sobre cursos|Flujo: Pedido de servicio de Capacitación In House|
 |:--:|:--:|
@@ -213,42 +213,21 @@ Imágenes de prototipo de baja de acuerdo al flujo o tarea realizada por las o l
 |:--:|
 |<p align="center"><img src="https://i.ibb.co/b37SxYr/Flujo-Comprar-Curso.jpg" alt="Prototipo-ComprarCurso" width="320" height="200"></p>|
 
-Imágenes de prototipo de baja de acuerdo a flujo de usuarios (Desktop):
+- Imágenes de prototipo de baja de acuerdo a flujo de usuarios (Desktop):
 
 |Flujo: Compra de curso|Flujo: Pedido de servicio de Capacitación In House|
 |:--:|:--:|
 |<p align="center"><img src="https://i.ibb.co/KF3GXNq/Flujo-Compra-Curso.png" alt="Prototipo-DesktopCompra" width="350" height="350"></p>|<p align="center"><img src="https://i.ibb.co/B2Gy0Yw/Flujo-Pedido-Cap-In-House.png" alt="Prototipo-DesktopCapInHouse" width="300" height="500"></p>|
 
-_**Conclusiones del Testeo de prototipo de baja**_
-
-Se realizó el testeo a 5 usuarios (mobile) y 3 usuarios (desktop) con la finalidad de poder mejorar la experiencia de uso del prototipo, previo a su diagramación en alta. Cada usuario aportó recomendaciones e ideas, de las cuáles se destacan:
-
-- No se entienden los métodos de pago.
-- Luego de realizar el pago no saben qué más pasa.
-- "Debería salir una notificación que el pago ya se hizo."
-- No identificaban el menú.
-- La presentación de la primera pantalla les gustó por no ser recargada.
-- "Las personas que no conocen sobre CID FARMA, deben ver más sobre quienes son".
-- "La compra debería ser acompañada con mensajes porque no me trasmite confianza".
-- "La información del docente debe estar antes que certificaciones por jerarquía".
-- "Deben incorporar números de contacto sin tener que ir a contacto".
-- La sección de información detalla de cursos se encuentra muy recargada.
- 
-**Prototipo de media (Desktop)**  
-Imágenes de prototipo de media de acuerdo a flujo de usuarios (Desktop) integrando algunas observaciones realizadas en el testeo anterior:
+### Prototipo de media (Desktop)  
+- Imágenes de prototipo de media de acuerdo a flujo de usuarios (Desktop) integrando algunas observaciones realizadas en el testeo anterior:
 
 |Flujo: Compra de curso|Flujo: Pedido de servicio de Capacitación In House|
 |:--:|:--:|
 |<p align="center"><img src="https://i.ibb.co/SJ41Cwd/Flujo-Compra-Curso.png" alt="PrototipoMedia-DesktopCompra" width="420" height="200"></p>|<p align="center"><img src="https://i.ibb.co/SRn7ntj/Flujo-Pedido-Curso.png" alt="PrototipoMedia-DesktopCapInHouse" width="300" height="350"></p>|
 
-_**Conclusiones del Testeo de prototipo de media**_
-
-Se realizó el testeo a 3 usuarios. Algunas de las ideas que más destacaron se muestran a continuación:
-
-- (Faltan dato)
-
-**Prototipo de alta (Mobile)** 
-A partir de los 5 testeos realizados se integraron las principales observaciones recogidas. A continuación se muestran las imágenes de prototipo de alta de mostrando flujos de las tareas priorizada y otras vistas:
+### Prototipo de alta (Mobile)
+- A partir de los testeos realizados se integraron las principales observaciones recogidas. A continuación se muestran las imágenes de prototipo de alta de mostrando flujos de las tareas priorizada y otras vistas:
 
 |Vista de Sección de Experiencias (Inicio) e interacción con Menú|Vista de secciones: Docentes, Nos avalan y Contáctanos|
 |:--:|:--:|
@@ -258,12 +237,37 @@ A partir de los 5 testeos realizados se integraron las principales observaciones
 |:--:|:--:|
 |<p align="center"><img src="https://i.ibb.co/yWDbHBw/Flujo-Cap-In-House.png" alt="Prototipo-FlujoPedidoServicioInHouse" width="400" height="200"></p>|<p align="center"><img src="https://i.ibb.co/LnJvMcj/Flujo-Compra-Curso.png" alt="Prototipo-FlujoCompraCurso" width="500" height="380"></p>|
 
-Diseño en alta para mobile en Zeplin [aquí](https://zpl.io/scene/adpRwLn).
+## Testeos de usabilidad
 
-_**Conclusiones del Testeo de prototipo de alta**_
+### Testeo de prototipo de baja 
+Se realizó el testeo a 5 usuarios (mobile) y 3 usuarios (desktop) con la finalidad de poder mejorar la experiencia de uso del prototipo, previo a su diagramación en alta. Cada usuario aportó recomendaciones e ideas, de las cuáles se destacan:
 
-De los 5 usuarias y usuarios testeado se logran extraer las siguientes observaciones:
-- (Faltan dato)
+- No se entienden los métodos de pago.
+- Luego de realizar el pago no saben qué más pasa.
+- "Debería salir una notificación que el pago ya se hizo."
+- No identificaban el menú.
+- La presentación de la primera pantalla les gustó por no ser recargada.
+- "Las personas que no conocen sobre CIDFARMA, deben ver más sobre quienes son".
+- "La compra debería ser acompañada con mensajes porque no me trasmite confianza".
+- "La información del docente debe estar antes que certificaciones por jerarquía".
+- La sección de información detalla de cursos se encuentra muy recargada.
+
+### Testeo de prototipo de alta (Mobile)
+
+Se realizó el testeo a 5 usuarios. Algunas de las ideas que más destacaron se muestran a continuación:
+
+- Imágenes no transmiten mucha confianza o calidez, cumplen su objetivo, pero lucen muy académicas.
+- Las letras en el inicio no se pueden percibir bien por el contraste y fondo blanco.
+- En la sección de Instituciones que avalan no se entiende, el título es ambiguo. Además las Instituciones no están organizadas en orden de prestigio.
+- No es fácil notar que existen más secciones para explorar a través del scroll.
+- El proceso de pago es realmente rápido y sencillo, pero el 100% de entrevistados no conocen Culqi por lo que sugieren otros medios de pago más convencionales.
+- Reportan dificultades en la interacción del despliegue de datos de cursos.
+- Link a contáctanos no es claro.
 
 Interactuar con prototipo de alta [aquí](https://www.figma.com/proto/fIAvpx7yEPvcM2S0PgiE9wH5/Prototipo-de-Alta-Mobile?node-id=0%3A1&scaling=scale-down).
 
+## Documentación extra
+
+- Diseño en alta para mobile en Zeplin [aquí](https://zpl.io/scene/adpRwLn).
+- Maquetación de principales vistas en HMTL [aquí]()
+- Presentación del proyecto [Video en loom]()

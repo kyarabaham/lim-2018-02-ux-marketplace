@@ -263,11 +263,13 @@ Se realizó el testeo a 5 usuarios. Algunas de las ideas que más destacaron se 
 - El proceso de pago es realmente rápido y sencillo, pero el 100% de entrevistados no conocen Culqi por lo que sugieren otros medios de pago más convencionales.
 - Reportan dificultades en la interacción del despliegue de datos de cursos.
 - Link a contáctanos no es claro.
+- El link a contáctanos, no se entiende.
+- El precio de la simulación de compra no coincide con el precio mostrado en la información del curso.
 
 Interactuar con prototipo de alta [aquí](https://www.figma.com/proto/fIAvpx7yEPvcM2S0PgiE9wH5/Prototipo-de-Alta-Mobile?node-id=0%3A1&scaling=scale-down).
 
 ## Documentación extra
 
 - Diseño en alta para mobile en Zeplin [aquí](https://zpl.io/scene/adpRwLn).
-- Maquetación de principales vistas en HMTL [aquí]()
+- Maquetación de principales vistas en HMTL [aquí](https://krpando.github.io/lim-2018-02-ux-marketplace/src/)
 - Presentación del proyecto [Video en loom]()

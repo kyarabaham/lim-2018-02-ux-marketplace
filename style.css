@@ -3,7 +3,9 @@
 	height: 550px;
 }
 
-
+.bordes{
+	border-style: none;
+}
 .slider1{
 	background-image: linear-gradient(rgba(0, 34, 68, .7),
 	 rgba(0, 34, 68, .7)),
@@ -28,27 +30,27 @@ color: #fff;
 }
 .jumbotron{
 background-color: #002F44;
-margin: -10px;
+
 color: white;
 }
 .display-4{
-	
+	margin-top: 30px;
 	text-align: center;
 }
-.card-body{
+.fondo-card{
 	color: white;
 	text-align: center;
-	background-color: #002F44
+	background-color: #002F44;
 
 }
-.row{
-	margin-top: 50px;
-
+.fondo{	
+	color: #002F44;
+	background-color: white;
+	text-align: center;
 }
 .jumbotron2{
 background-color: white;
 
-margin:50px; 
 }
 .slider4{
 	background-color: #B3ACAC;
@@ -57,18 +59,41 @@ margin:50px;
     margin-left: auto;
     margin-right: auto;
     display: block;
-    margin-top:20px; 
-    margin-bottom: 30px;
+  
 }
-.footer{
-	background-color: #087E8C;
-	
-}
+
 .cellogo{
 	height: 40px;
 	width: 70px;
 }
-
+.logo-semi{
+	text-align: left;
+}
 .footer{
+	margin-top: -50px;
 	padding: 10px 40px;
+	background-color: #087E8C;
+}
+.footer2{
+	background-color: #087E8C;
+	padding: 10px 40px;
+	margin-top: 40px;
+}
+
+.card{
+	text-align: center;
+}
+.informacion{
+	float: right;
+}
+.card-title{
+	top: 0;
+}
+.position{
+	position: flex;
+}
+.seminario-img{
+	width: 338px;
+	height: 280px;
+	object-fit: cover;
 }
